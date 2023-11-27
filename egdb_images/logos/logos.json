@@ -1,21 +1,17 @@
 {
   "logos":
     [
-      { "image":"logo1.png",
+      { "image":"madland_logo.jpg",
+        "link":"https://www.google.com/",
+        "height":"80"
+      },
+      { "image":"dfg_logo.jpg",
         "link":"https://www.google.com/",
         "height":"60"
       },
-      { "image":"logo2.png",
+      { "image":"plantco.de_logo.jpg",
         "link":"https://www.google.com/",
-        "height":"60"
-      },
-      { "image":"logo3.png",
-        "link":"https://www.google.com/",
-        "height":"60"
-      },
-      { "image":"logo4.png",
-        "link":"https://www.google.com/",
-        "height":"60"
+        "height":"40"
       }
     ]
 }
