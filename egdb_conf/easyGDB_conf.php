@@ -16,7 +16,7 @@ $annotation_links_path = "$root_path/$egdb_files_folder/annotations";
 // header
 $dbTitle = "MAdLandExpr";
 $header_img = "cover.jpg";
-$db_logo = "egdb_logo.png";
+$db_logo = "";
 
 // Toolbar
 $tb_about = 0;
