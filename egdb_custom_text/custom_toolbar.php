@@ -3,3 +3,4 @@
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/tools/expression/expression_menu.php">Datasets</a></li>
 <li class="nav-item"><a class="nav-link" href="https://peatmoss.plantcode.cup.uni-freiburg.de/expression_viewer/input" target="_blank">PEATmoss</a></li>
 <li class="nav-item"><a class="nav-link" href="https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_search_input.php" target="_blank">PpGMLDB</a></li>
+<li class="nav-item"><a class="nav-link" href="https://madland.science/" target="_blank">MAdLand</a></li>
