@@ -1,23 +1,31 @@
 <p>
   RNA-seq expression data of <i>P. patens</i> experiments conducted in sexual organs and first stages of the sporophyte development. All samples were normalized to RPKM.
+  
+  The experiments of this dataset were published in <a href="https://doi.org/10.1007/s00497-021-00409-0">Genau et al., 2021</a> (Gametophore apices), <a href="https://doi.org/10.1111/nph.16486">Meyberg et al., 2020</a> (antheridia bundles), <a href="https://doi.org/10.3389/fpls.2020.00813">Haas et al., 2020</a> (Egg cell, unfertilized archegonia, F, F1/2, and ES1), <a href="https://doi.org/10.1093%2Fgbe%2Fevx098">Szövényi et al., 2020</a> (F1/E1/E2, ES/ES1, Green sporophyte), <a href="https://doi.org/10.1038/s41477-021-00958-2">Julca et al., 2021</a> (antheridia development, sperm cell packages, and mature archegonia).
+  
 </p>
+
 <h4>Experimental Conditions (3 replicates unless otherwise noted):</h4>
 
 
 <ul>
   <li><span style="color:blue;">Re - Gam apice noW (gametophore apices without watering)</span></li>
   <li><span style="color:blue;">Re - Gam apice 2 DAW (gametophore apices 2 days after watering)</span></li>
+  <hr>
   <li><span style="color:green;">Re - Antheridia Bundles</span></li>
-  <li><span style="color:green;">Re - Antheridia 9 DAI (antheridia 9 days after)</span></li>
-  <li><span style="color:green;">Re - Antheridia 11 DAI (antheridia 11 days after)</span> [5 replicates]</li>
-  <li><span style="color:green;">Re - Antheridia 14-15 DAI (antheridia 14-15 days after)</span> [4 replicates]</li>
+  <hr>
+  <li><span style="color:green;">Re - Antheridia 9 DAI (antheridia 9 days after induction)</span></li>
+  <li><span style="color:green;">Re - Antheridia 11 DAI (antheridia 11 days after induction)</span> [5 replicates]</li>
+  <li><span style="color:green;">Re - Antheridia 14-15 DAI (antheridia 14-15 days after induction)</span> [4 replicates]</li>
   <li><span style="color:green;">Re - Sperm Cell Packages</span></li>
-  <li><span style="color:green;">Re - Mature Archegonia</span></li>
+  <li><span style="color:orange;">Re - Mature Archegonia</span></li>
+  <hr>
   <li><span style="color:orange;">Vx - EggCell Mat Archegonia (egg cell mature archegonia)</span></li>
   <li><span style="color:orange;">Vx - Unfertilized Archegonia</span></li>
   <li><span style="color:pink;">Vx - F</span></li>
   <li><span style="color:pink;">Vx - F1/2</span></li>
-  <li><span style="color:pink;">Vx - ES1</span> [1 replicate]</li>
+  <li><span style="color:pink;">Re - ES1</span> [1 replicate]</li>
+  <hr>
   <li><span style="color:pink;">Vx - F1/E1/E2</span> [1 replicate]</li>
   <li><span style="color:pink;">Vx - ES/ES1</span> [1 replicate]</li>
   <li><span style="color:pink;">Vx - Green Sporophyte</span> [1 replicate]</li>
@@ -30,7 +38,7 @@
   Vx: Villersexel WT<br>
   noW: 2 days without watering<br>
   2 DAW: 2 days after watering<br>
-  DAI: days after <br>
+  DAI: days after induction<br>
   Note: Gametophores apices were collected to study gene expression in sexual organs.
 </p>
 
@@ -93,4 +101,3 @@ gametophore and sporophyte still loose but cells started to differentiate.</td>
 </table>
 
 <br>
-The experiments of this dataset were published in <a href="https://doi.org/10.1007/s00497-021-00409-0">Genau et al., 2021</a> (Gametophore apices), <a href="https://doi.org/10.1111/nph.16486">Meyberg et al., 2020</a> (antheridia bundles), <a href="https://doi.org/10.3389/fpls.2020.00813">Haas et al., 2020</a> (Egg cell, unfertilized archegonia, F, and F1/2), <a href="https://doi.org/10.1093%2Fgbe%2Fevx098">Szövényi et al., 2020</a> (F1/E1/E2, ES/ES1, Green sporophyte), <a href="https://doi.org/10.1038/s41477-021-00958-2">Julca et al., 2021</a> (antheridia development, sperm cell packages, and mature archegonia). All samples were normalized to RPKM.
