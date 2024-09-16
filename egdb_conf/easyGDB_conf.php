@@ -2,16 +2,25 @@
 // File paths
 $root_path = "/var/www/html"; //use absolute path
 $egdb_files_folder = "MAdLandExpr";
+
 $easy_gdb_path = "$root_path/easy_gdb";
 $blast_dbs_path = "$root_path/blast_dbs";
 $expression_path = "$root_path/expression_data/peatmoss2";
 $downloads_path = "downloads";
-$lookup_path = "$root_path/lookup"; //from root 
+$lookup_path = "$root_path/lookup/madland"; //from root 
 $images_path = "/$egdb_files_folder/egdb_images";
 $custom_text_path = "$root_path/$egdb_files_folder/egdb_custom_text";
 $species_path = "$root_path/$egdb_files_folder/egdb_species";
 $lab_path = "$root_path/$egdb_files_folder/egdb_labs";
+$annotations_path = "$root_path/annotations";
 $annotation_links_path = "$root_path/$egdb_files_folder/annotations";
+
+// Custom css file
+//$custom_css = 1;
+$custom_css_path = "$egdb_files_folder/css/madland.css";
+
+// Select 1 to store annotations in files or 0 to store annotations in a relational database
+$file_database = 1;
 
 // header
 $dbTitle = "MAdLandExpr";
@@ -19,6 +28,7 @@ $header_img = "cover.jpg";
 $db_logo = "logos/madland_logo.jpg";
 
 // Toolbar
+$tb_rm_home = 1;
 $tb_about = 0;
 $tb_downloads = 0;
 $tb_species = 0;
@@ -46,9 +56,10 @@ $ab_labs = 0;
 
 //Gene examples
 $gene_sample = "";
-$input_gene_list="gene1.1
-gene2.1
-gene3.1";
+$input_gene_list="Pp3c1_10090V3.1
+Pp3c1_10200V3.1
+Pp3c1_10880V3.1
+Pp3c1_1160V3.1";
 
 
 // Tools
@@ -59,11 +70,11 @@ $max_expression_input = 15;
 
 // BLAST
 $blast_example=">protein_or_DNA
-ATGAGTTGTGGGGAGGGATTTATGTCACCACAAATAGAGACTAAAGGAAGTGTTGGATTC
-AAAGCGGGTGTTAAAGAGTACAAATTGATTTATTATACTCCTGAATACGAAACCAAAGAT
-ACCGATATCTTGGTAACATTTCGAGTAACTCCTCAACCTGGAGTTTCGCCTGTAGAAGCA
-GGCTTGAGCGGGCATATCGATACTGACTGATCGATCGATCGTAGCTAGCTAGCTGATCGT
-CGTAGCTAGTCGATCGTA";
+CTCCTCCTCTTCGTCGTGCTTTCACATTGTCACTTGAAGGCAGGCATGTGTGGAAGGGAT
+GGCATCGGAGCGCAACAGTGGAGGCACACAACCACCACCCCTGTCTATGTGCTCCTCTGC
+AGCAGCAGCTGGATCATGGCTGCACCGGGGATCATCATCGTCTACGCACCTTTCCTGCTT
+TCCCTCCTCCACTCCCCCTCCTAGCCAAGGTCTCCCTTCTTCCCACGCTGCTTCTATGCT
+CTTTTGCCTTGTTGACTC";
 
 ?>
 

@@ -1,0 +1,50 @@
+{
+  "Chara braunii":
+    {"sps_name":"Chara braunii",
+      "common_name":"Streptophyte alga",
+      "image":"chara.webp",
+      "public":"1",
+      "link":"chara.php",
+      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+    },
+  "Spirogyra pratensis":
+    {"sps_name":"Spirogyra pratensis",
+      "common_name":"Streptophyte alga",
+      "image":"spirogyra.webp",
+      "public":"1",
+      "link":"spirogyra.php",
+      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+    },
+  "Physcomitrium patens":
+    {"sps_name":"Physcomitrium patens",
+      "common_name":"Moss",
+      "image":"ppatens.webp",
+      "public":"1",
+      "link":"ppatens.php",
+      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+    },
+    "Ceratodon purpureus":
+    {"sps_name":"Ceratodon purpureus",
+      "common_name":"Moss",
+      "image":"ceratodon.webp",
+      "public":"1",
+      "link":"ceratodon.php",
+      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+    },
+  "Anthoceros agrestis":
+    {"sps_name":"Anthoceros agrestis",
+      "common_name":"Hornwort",
+      "image":"anthoceros.webp",
+      "public":"1",
+      "link":"anthoceros.php",
+      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+    },
+  "Marchantia polymorpha":
+    {"sps_name":"Marchantia polymorpha",
+      "common_name":"Liverwort",
+      "image":"marchantia.webp",
+      "public":"1",
+      "link":"marchantia.php",
+      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+    }
+}
