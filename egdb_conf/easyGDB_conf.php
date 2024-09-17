@@ -66,7 +66,7 @@ Pp3c1_1160V3.1";
 $max_lookup_input = 10000;
 $max_extract_seq_input = 10000;
 $max_blast_input = 20;
-$max_expression_input = 15;
+$max_expression_input = 100;
 
 // BLAST
 $blast_example=">protein_or_DNA
