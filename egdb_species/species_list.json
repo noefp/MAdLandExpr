@@ -5,7 +5,7 @@
       "image":"chara.webp",
       "public":"1",
       "link":"chara.php",
-      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+      "jbrowse":"https://bioinformatics.psb.ugent.be/orcae/overview/Chbra"
     },
   "Spirogyra pratensis":
     {"sps_name":"Spirogyra pratensis",
@@ -13,7 +13,7 @@
       "image":"spirogyra.webp",
       "public":"1",
       "link":"spirogyra.php",
-      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+      "jbrowse":""
     },
   "Physcomitrium patens":
     {"sps_name":"Physcomitrium patens",
@@ -21,7 +21,7 @@
       "image":"ppatens.webp",
       "public":"1",
       "link":"ppatens.php",
-      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928"
     },
     "Ceratodon purpureus":
     {"sps_name":"Ceratodon purpureus",
@@ -29,7 +29,7 @@
       "image":"ceratodon.webp",
       "public":"1",
       "link":"ceratodon.php",
-      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+      "jbrowse":"https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FCpurpureusGG1_v1_1"
     },
   "Anthoceros agrestis":
     {"sps_name":"Anthoceros agrestis",
@@ -37,7 +37,7 @@
       "image":"anthoceros.webp",
       "public":"1",
       "link":"anthoceros.php",
-      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+      "jbrowse":"https://www.hornworts.uzh.ch/en/hornwort-genomes.html"
     },
   "Marchantia polymorpha":
     {"sps_name":"Marchantia polymorpha",
@@ -45,6 +45,6 @@
       "image":"marchantia.webp",
       "public":"1",
       "link":"marchantia.php",
-      "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight="
+      "jbrowse":"https://marchantia.info/viewer/MpTak_v7.1/"
     }
 }
