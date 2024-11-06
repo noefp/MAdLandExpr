@@ -26,7 +26,7 @@
                 if ($species_hash[$key]["public"]) {
                   echo '<div class="select">';
                   echo '<a href="'.$species_hash[$key]["jbrowse"].' class="d-flex align-items-center justify-content-center flex-column zoom-img">';
-                  echo '<img src="'.$images_path.'/species/'.$species_hash[$key]["image"].'" alt="'.$species_hash[$key]["sps_name"].'" width="200px" height="220px" class="solid alignnone size-medium wp-image-3011 rounded-circle image">';
+                  echo '<img class="solid alignnone size-medium wp-image-3011 rounded-circle image" alt="'.$species_hash[$key]["sps_name"].'" width="200px" height="220px" src="'.$images_path.'/species/'.$species_hash[$key]["image"].'">';
                   echo '</a>';
                   echo '<div class="text-center">';
                   echo '<strong><em>'.$species_hash[$key]["sps_name"].'</em></strong>';
