@@ -34,12 +34,13 @@
   Dry spores and imbibed spores from Grandsen and protonema Klq, gametophore ksl and adult gametophore ksl from Reute were published in <a href="https://onlinelibrary.wiley.com/doi/10.1111/tpj.14607">Fernandez-Pozo et al., 2020</a>. The rest of the experiments were published in <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.13940">Perroud et al., 2018</a>. All samples were normalized to RPKM.
 </p>
 
-<table>
+<table class="table" style="width:450px;text-align:left">
   <tr style="border-bottom: solid 1px">
     <th>
-      <b>Abbreviations</b>
+      <b>Media</b>
     </th>
     <th>
+      <b>Abbreviations</b>
     </th>
   </tr>
   <tr><td>BCDA (ammonium) liquid</td><td>BlqA</td></tr>
