@@ -35,6 +35,9 @@ $db_logo = "logos/madland_logo.jpg";
 // Select 1 to store annotations in files or 0 to store annotations in a relational database
 $file_database = 1;
 
+// Set to 1 to remove the jbrowse frame from gene.php. Set to 1 if JBrowse was not installed or setup.
+$rm_jb_frame = 1;
+
 // Toolbar
 $tb_custom = 1;
 $tb_rm_home = 1;
