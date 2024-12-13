@@ -1,0 +1,15 @@
+{
+  "P.patens_genome_V3.fasta":"/jbrowse/?data=data%2Feasy_gdb_sample&loc={chr}%3A{start}..{end}",
+  "P.patens_v3.3_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v3.3_annotations.txt",
+  "P.patens_v3.3_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v3.3_annotations.txt",
+  "P.patens_v3.3_cDNA.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v3.3_annotations.txt",
+  "P.patens_v3.3_genes_with_introns.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v3.3_annotations.txt",
+  "P.patens_v1.6_cDNA.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
+  "P.patens_v1.6_CDS.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
+  "P.patens_v1.6_proteins.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
+  "P.patens_v1.2_cDNA.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
+  "P.patens_v1.2_CDS.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
+  "P.patens_v1.2_proteins.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}"
+}
+
+

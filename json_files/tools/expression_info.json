@@ -1,0 +1,215 @@
+{
+  "01 P.patens development.txt":
+    {"link":"",
+      "annotation_file":"P.patens/Ppatens_v3.3_annotations.txt",
+      "description":"pp_rna_dev.php",
+      "cartoons":"cartoons_ppatens_development.json",
+      "images":
+        {
+          "Gd - Dry Spores":"spores.jpg",
+          "Gd - Imbibed Spores BlqA":"spores.jpg",
+          "Gd - Germinating spores BslA":"germinating_spores.jpg",
+          "Gd - Protonema Bsl":"protonema.jpg",
+          "Gd - Protonema Ksl":"protonema.jpg",
+          "Gd - Protonema Klq":"protonema.jpg",
+          "Re - Protonema Klq":"protonema.jpg",
+          "Re - Gametophores Ksl":"gametophore.jpg",
+          "Re - Adult Gametophores Ksl":"adult_gametophores.jpg",
+          "Gd - Adult Gametophores Ksl":"adult_gametophores.jpg",
+          "Gd - Adult Gametophores Bsl":"adult_gametophores.jpg",
+          "Gd - Leaflets Ksl":"leaflets.jpg",
+          "Re - Green Sporophyte Ksl":"mature_sporophyte.jpg",
+          "Re - Brown Sporophyte Ksl":"mature_sporophyte.jpg",
+          "Gd - Protoplast BslA":"protoplast.jpg"
+        }
+    },
+  "02 P.patens sexual reproduction.txt":
+    {"link":"",
+      "annotation_file":"P.patens/Ppatens_v3.3_annotations.txt",
+      "description":"pp_sex_rep.php",
+      "cartoons":"cartoons_ppatens_sex.json",
+      "images":
+        {
+          "Re - Gam apice noW":"Apice no water.jpg",
+          "Re - Gam apice 2 DAW":"Apice 2 DAW.jpg",
+          "Re - Antheridia Bundles":"Antheridia bundles.jpg",
+          "Re - Antheridia 9 DAI":"Antheridia bundles.jpg",
+          "Re - Antheridia 11 DAI":"Antheridia bundles.jpg",
+          "Re - Antheridia 14-15 DAI":"Antheridia bundles.jpg",
+          "Re - Sperm Cell Packages":"Sperm cell packages.jpg",
+          "Re - Mature Archegonia":"Mature archegonia.jpg",
+          "Vx - EggCell Mat Archegonia":"Egg cell mature archegonia.jpg",
+          "Vx - Unfertilized Archegonia":"Inmature archegonia.jpg",
+          "Vx - F":"F_embryo.jpg",
+          "Vx - F1/2":"F1_2_embryo.jpg",
+          "Re - ES1":"ES1.jpg",
+          "Vx - F1/E1/E2":"F_E1_E2.jpg",
+          "Vx - ES/ES1":"ES_ES1.jpg",
+          "Vx - Green Sporophyte":"Green Sporophyte.jpg"
+        }
+    },
+  "03 P.patens protonema hormones.txt":
+    {"link":"",
+      "annotation_file":"P.patens/Ppatens_v3.3_annotations.txt",
+      "description":"pp_rna_protonema_hormones.php",
+      "images":
+        {
+          "control - BSL":"protonema.jpg",
+          "ABA - BSL":"protonema.jpg",
+          "control - BSLA":"protonema.jpg",
+          "OPDA - BSLA":"protonema.jpg",
+          "Acetone - BSL":"protonema.jpg",
+          "Strigolactone - BSL":"protonema.jpg",
+          "Continuous Light - BSL":"protonema.jpg",
+          "Continuous light GA9 - BSL":"protonema.jpg"
+        }
+    },
+  "04 P.patens protonema light.txt":
+    {"link":"",
+      "annotation_file":"P.patens/Ppatens_v3.3_annotations.txt",
+      "description":"pp_rna_protonema_light.php",
+      "images":
+        {
+          "control - BSL":"protonema.jpg",
+          "Heat Stress - BSL":"protonema.jpg",
+          "Continuous Light - BSL":"protonema.jpg",
+          "Glucose Continuous Light - BSLA":"protonema.jpg",
+          "Glucose Darkness - BSLA":"protonema.jpg",
+          "Glucose UV-B Light - BSLA":"protonema.jpg",
+          "Glucose Blue Light - BSLA":"protonema.jpg",
+          "Glucose Red Light - BSLA":"protonema.jpg",
+          "Glucose Far Red Light - BSLA":"protonema.jpg",
+          "Low Light - KSL":"protonema.jpg",
+          "High Light - KSL":"protonema.jpg",
+          "2 Hours After Light - KLQ":"protonema.jpg",
+          "2 Hours After Light Ammonium - KLQ":"protonema.jpg"
+        }
+    },
+  "05 P.patens Pi deficiency.txt":
+    {"link":"",
+      "annotation_file":"P.patens/Ppatens_v3.3_annotations.txt",
+      "description":"pp_protonema_Pi.php",
+      "images":
+        {
+          "Pi Control 0.5h":"protonema.jpg",
+          "Pi Control 2h":"protonema.jpg",
+          "Pi Control 24h":"protonema.jpg",
+          "Pi Deficency 0.5h":"protonema.jpg",
+          "Pi Deficency 2h":"protonema.jpg",
+          "Pi Deficency 24h":"protonema.jpg"
+        }
+    },
+  "06 P.patens gametophore treatments.txt":
+    {"link":"",
+      "annotation_file":"P.patens/Ppatens_v3.3_annotations.txt",
+      "description":"pp_rna_gam.php",
+      "images":
+        {
+          "Dehydration - BSL":"gametophore.jpg",
+          "Rehydration - BSL":"gametophore.jpg",
+          "Control No Rhizoids - Khydr":"gametophore.jpg",
+          "Auxin No Rhizoids - Khydr":"gametophore.jpg"
+        }
+    },
+  "07 Combimatrix development norm12 bg sub.txt":
+    {"link":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name=query_id",
+      "description":"pp_combi_dev.php",
+      "images":
+        {
+          "Re - Germinating spores":"germinating_spores.jpg",
+          "Gd - Protonema":"protonema.jpg",
+          "Gd - Protonema KlqA":"protonema.jpg",
+          "Gd - Juvenile gametophores":"gametophore.jpg",
+          "Gd - Adult gametophores":"adult_gametophores.jpg",
+          "Re - Adult gametophores":"adult_gametophores.jpg",
+          "Re - Sporophytes LB-B":"mature_sporophyte.jpg",
+          "Gd - Protoplasts":"protoplast.jpg"
+        }
+    },
+  "08 Combimatrix protonema norm12 bg sub.txt":
+    {"link":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name=query_id",
+      "description":"pp_combi_protonema.php",
+      "images":
+        {
+          "Control pH 5.8":"protonema.jpg",
+          "pH 4.5":"protonema.jpg",
+          "ABA Control 30min":"protonema.jpg",
+          "ABA Control 180min":"protonema.jpg",
+          "ABA 30min":"protonema.jpg",
+          "ABA 60min":"protonema.jpg",
+          "ABA 180min":"protonema.jpg"
+        }
+    },
+  "09 Combimatrix gametophore norm12 bg sub.txt":
+    {"link":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name=query_id",
+      "description":"pp_combi_gametophore.php",
+      "images":
+        {
+          "Sun light 2h":"gametophore.jpg",
+          "Strong light 2h":"gametophore.jpg",
+          "UV 303 nm weak":"gametophore.jpg",
+          "UV 303 nm strong":"gametophore.jpg",
+          "UV 345 nm strong":"gametophore.jpg",
+          "UV 345 nm weak":"gametophore.jpg",
+          "Darkness":"gametophore.jpg",
+          "Red light 1h":"gametophore.jpg",
+          "Red light 30 min":"gametophore.jpg",
+          "Dehydration":"gametophore.jpg",
+          "Rehydration":"gametophore.jpg",
+          "Botrytis control":"gametophore.jpg",
+          "Botrytis 24h":"gametophore.jpg"
+        }
+    },
+  "10 Combimatrix leaf norm12 bg sub.txt":
+    {"link":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name=query_id",
+      "description":"pp_combi_leaf.php",
+      "images":
+        {
+          "0 hours":"leaflets.jpg",
+          "1 hours":"leaflets.jpg",
+          "2 hours":"leaflets.jpg",
+          "6 hours":"leaflets.jpg",
+          "12 hours":"leaflets.jpg",
+          "18 hours":"leaflets.jpg",
+          "24 hours":"leaflets.jpg",
+          "36 hours":"leaflets.jpg",
+          "48 hours":"leaflets.jpg",
+          "72 hours":"leaflets.jpg",
+          "96 hours":"leaflets.jpg"
+        }
+    },
+  "11 NimbleGen Ortiz-Ramirez et al 2016.txt":
+    {"link":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name=query_id",
+      "description":"pp_nimble_ortiz.php",
+      "images":
+        {
+          "Caulonema":"caulonema.jpg",
+          "Chloronema":"chloronema.jpg",
+          "Rhizoids":"rhizoids.jpg",
+          "Gametophores":"gametophore.jpg",
+          "Archegonia":"archegonia.jpg",
+          "Sporophyte 1":"embryo1.jpg",
+          "Sporophyte 2":"early_sporophyte.jpg",
+          "Sporophyte 3":"developing_sporophyte.jpg",
+          "Sporophyte M":"mature_sporophyte.jpg",
+          "Spores":"spores.jpg",
+          "Protoplast":"protoplast.jpg"
+        }
+    },
+  "12 NimbelGen Development and Mycorrhiza norm12 bad reps rm.txt":
+    {"link":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name=query_id",
+      "description":"pp_nimble_dev.php",
+      "images":
+        {
+          "Re - Brown Sporophytes":"mature_sporophyte.jpg",
+          "Re - Green Sporophytes":"mature_sporophyte.jpg",
+          "Re - AdGam":"adult_gametophores.jpg",
+          "Re - JuvGam":"gametophore.jpg",
+          "Gd - Exudate Control - JuvGam":"gametophore.jpg",
+          "Gd - Glomus Exudate 60 min - JuvGam":"gametophore.jpg",
+          "Gd - Glomus Exudate 24 h - JuvGam":"gametophore.jpg",
+          "Gd - Gigaspora Exudate 24 h - JuvGam":"gametophore.jpg",
+          "Gd - Heat 2h - JuvGam":"gametophore.jpg"
+        }
+    }
+}
