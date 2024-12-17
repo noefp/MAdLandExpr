@@ -6,128 +6,128 @@
         "image":"GamtApice_NoW.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t2",
         "sample":"Re - Gam apice 2 DAW",
         "image":"GamtApice_W.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t3",
         "sample":"Re - Antheridia Bundles",
         "image":"Anth_21.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t4",
         "sample":"Re - Antheridia 9 DAI",
         "image":"Anth_9 y flechas.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t5",
         "sample":"Re - Antheridia 11 DAI",
         "image":"Anth_11.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t6",
         "sample":"Re - Antheridia 14-15 DAI",
         "image":"Anth_14-15.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t7",
         "sample":"Re - Sperm Cell Packages",
         "image":"SpermPackages.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t8",
         "sample":"Re - Mature Archegonia",
         "image":"MatArch.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t9",
         "sample":"Vx - EggCell Mat Archegonia",
         "image":"MatEggCell.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t10",
         "sample":"Vx - Unfertilized Archegonia",
         "image":"UnferEgg.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t11",
         "sample":"Vx - F",
         "image":"EmbryoF.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t12",
         "sample":"Vx - F1/2",
         "image":"EmbryoF1_2.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t13",
         "sample":"Vx - F1/E1/E2",
         "image":"EmbryoF1_E1_E2.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t14",
         "sample":"Re - ES1",
         "image":"EarlySpo1.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t15",
         "sample":"Vx - ES/ES1",
         "image":"EarlySpo_EarlySpo1.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       },
       { "img_id":"t16",
         "sample":"Vx - Green Sporophyte",
         "image":"GreenSpo.png",
         "x":10,
         "y":10,
-        "width":978,
-        "height":545
+        "width":900,
+        "height":502
       }
     ]
 }
