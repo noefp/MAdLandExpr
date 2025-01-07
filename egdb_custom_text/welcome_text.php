@@ -10,8 +10,8 @@
   <div class="row">
 
     <?php
-      if ( file_exists("$species_path/species_list.json") ) {
-        $sps_json_file = file_get_contents("$species_path/species_list.json");
+      if ( file_exists($json_files_path."/customization/species_list.json") ) {
+        $sps_json_file = file_get_contents($json_files_path."/customization/species_list.json");
         $species_hash = json_decode($sps_json_file, true);
 
         foreach($species_hash as $key => $value) {
