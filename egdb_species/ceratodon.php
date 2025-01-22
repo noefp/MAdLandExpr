@@ -3,6 +3,9 @@
 <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FCpurpureusGG1_v1_1&loc=U%3A400001..500000&tracks=Transcripts%2CAlt_Transcripts%2CPASA_assembly%2CBlastx_protein%2CBlatx_BasalEmbryophyte&highlight=" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser GG1 v1.1</a>
 <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FCpurpureusR40_v1_1&loc=V%3A100001..200000&tracks=Transcripts%2CAlt_Transcripts%2CPASA_assembly%2CBlastx_protein%2CBlatx_BasalEmbryophyte&highlight=" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser R40 v1.1</a>
 <a href="https://phytozome-next.jgi.doe.gov/blast-search" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
+<button type="button" class="btn btn-light" data-toggle="modal" data-target="#expr_atlas">
+  Expression Atlas
+</button><br>
 <br>
 <br>
 <br>
@@ -36,3 +39,23 @@
 <h3>Taxonomy</h3>
 <?php include_once("ceratodon_classification_table.php");?>
 <br>
+
+<!-- Modal -->
+<div class="modal fade" id="expr_atlas" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Currently unavailable</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        The Expression data will be included in <strong></span>MAdLand<span style="color:yellowgreen;">Expression</span></strong> in the next version.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

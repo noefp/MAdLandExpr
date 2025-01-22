@@ -1,4 +1,4 @@
-<a class="navbar-brand" href="/easy_gdb/index.php"><span style="color:greenyellow;"></span><span style="color:revert-layer;"></span>MAdLand<span style="color:yellowgreen;">Expr</span></a>
+<a class="navbar-brand" href="/easy_gdb/index.php"><span style="color:greenyellow;"></span><span style="color:revert-layer;"></span>MAdLand<span style="color:yellowgreen;">Expression</span></a>
 
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/species.php">Species</a></li>
 

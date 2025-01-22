@@ -1,8 +1,8 @@
-<h1 class="text-center">Welcome to <?php echo "$dbTitle";?> </h1>
+<h1 class="text-center">Welcome to </span>MAdLand<span style="color:yellowgreen;">Expression</span> </h1>
 
 
 <p class="text-justify">
-  MAdLandExpr includes expression and genomics data from non-seed plants studied in <a href="https://madland.science/" target="_blank">MAdLand</a>. This site is a module of PEATmoss with several genomic tools to access gene expression data, sequences and annotations. External resources are linked for many of these species.
+  <strong></span>MAdLand<span style="color:yellowgreen;">Expression</span></strong> includes expression and genomics data from non-seed plants studied in <a href="https://madland.science/" target="_blank">MAdLand</a>. This site is the successor of PEATmoss, with several genomic tools to access gene expression data, sequences and annotations. External resources are linked for many of these species.
 </p>
 <br>
 

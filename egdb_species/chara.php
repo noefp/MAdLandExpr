@@ -1,7 +1,9 @@
 <a href="https://bioinformatics.psb.ugent.be/orcae/overview/Chbra" class="btn btn-info sps-btn" role="button" target="_blank">ORCAE</a>
 <a href="https://bioinformatics.psb.ugent.be/blast/moderated/?project=orcae_Chbra" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
-<a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
 <a href="https://bioinformatics.psb.ugent.be/gdb/Chara_braunii/" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
+<button type="button" class="btn btn-light" data-toggle="modal" data-target="#expr_atlas">
+  Expression Atlas
+</button>
 <br>
 <br>
 <br>
@@ -43,3 +45,23 @@ These features highlight <i>Chara braunii</i> as a model organism for studying t
 <?php include_once("chara_classification_table.php");?>
 
 <br>
+
+<!-- Modal -->
+<div class="modal fade" id="expr_atlas" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Currently unavailable</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        The Expression data will be included in <strong></span>MAdLand<span style="color:yellowgreen;">Expression</span></strong> in the next version.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -28,7 +28,7 @@ $passport_path = "$root_path/passport";
 $phenotype_imgs_path = "$images_path/descriptors_imgs";
 
 // header: site title, header image and logo
-$dbTitle = "MAdLandExpr";
+$dbTitle = "MAdLandExpression";
 $header_img = "cover.jpg";
 $db_logo = "logos/madland_logo.jpg";
 

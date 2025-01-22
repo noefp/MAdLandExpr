@@ -1,9 +1,10 @@
 <a href="https://www.hornworts.uzh.ch/en.html" class="btn btn-info sps-btn" role="button" target="_blank">Anthoceros at UZH</a>
 <a href="https://www.hornworts.uzh.ch/en/Blast.html" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
-<a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
 <a href="https://www.hornworts.uzh.ch/en/hornwort-genomes.html" class="btn btn-info sps-btn" role="button" target="_blank">Genome Browser</a>
 <a href="https://www.hornworts.uzh.ch/en/download.html" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
-<br>
+<button type="button" class="btn btn-light" data-toggle="modal" data-target="#expr_atlas">
+  Expression Atlas
+</button><br>
 <br>
 <br>
 
@@ -46,3 +47,23 @@
 <h3>Taxonomy</h3>
 <?php include_once("anthoceros_classification_table.php");?>
 <br>
+
+<!-- Modal -->
+<div class="modal fade" id="expr_atlas" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Currently unavailable</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        The Expression data will be included in <strong></span>MAdLand<span style="color:yellowgreen;">Expression</span></strong> in the next version.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
