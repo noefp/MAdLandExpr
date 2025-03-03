@@ -1,47 +1,47 @@
 {
   "Chara braunii":
-    {"sps_name":"Chara braunii",
-      "common_name":"Streptophyte alga",
+    {"card_title":"Chara braunii",
+      "card_subtitle":"Streptophyte alga",
       "image":"chara.webp",
       "public":"1",
       "link":"chara.php",
       "jbrowse":"https://bioinformatics.psb.ugent.be/orcae/overview/Chbra"
     },
   "Spirogyra pratensis":
-    {"sps_name":"Spirogyra pratensis",
-      "common_name":"Streptophyte alga",
+    {"card_title":"Spirogyra pratensis",
+      "card_subtitle":"Streptophyte alga",
       "image":"spirogyra.webp",
       "public":"1",
       "link":"spirogyra.php",
       "jbrowse":""
     },
   "Physcomitrium patens":
-    {"sps_name":"Physcomitrium patens",
-      "common_name":"Moss",
+    {"card_title":"Physcomitrium patens",
+      "card_subtitle":"Moss",
       "image":"ppatens.webp",
       "public":"1",
       "link":"ppatens.php",
       "jbrowse":"https://genomevolution.org/coge/GenomeView.pl?gid=33928"
     },
     "Ceratodon purpureus":
-    {"sps_name":"Ceratodon purpureus",
-      "common_name":"Moss",
+    {"card_title":"Ceratodon purpureus",
+      "card_subtitle":"Moss",
       "image":"ceratodon.webp",
       "public":"1",
       "link":"ceratodon.php",
       "jbrowse":"https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FCpurpureusGG1_v1_1"
     },
   "Anthoceros agrestis":
-    {"sps_name":"Anthoceros agrestis",
-      "common_name":"Hornwort",
+    {"card_title":"Anthoceros agrestis",
+      "card_subtitle":"Hornwort",
       "image":"anthoceros.webp",
       "public":"1",
       "link":"anthoceros.php",
       "jbrowse":"https://www.hornworts.uzh.ch/en/hornwort-genomes.html"
     },
   "Marchantia polymorpha":
-    {"sps_name":"Marchantia polymorpha",
-      "common_name":"Liverwort",
+    {"card_title":"Marchantia polymorpha",
+      "card_subtitle":"Liverwort",
       "image":"marchantia.webp",
       "public":"1",
       "link":"marchantia.php",

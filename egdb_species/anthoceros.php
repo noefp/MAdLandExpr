@@ -1,3 +1,7 @@
+<br>
+<img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
+<h1><?php echo $sps_subtitle ?></h1>
+<h3 style="color:#666"><i><?php echo $sps_title ?></i></h3>
 <a href="https://www.hornworts.uzh.ch/en.html" class="btn btn-info sps-btn" role="button" target="_blank">Anthoceros at UZH</a>
 <a href="https://www.hornworts.uzh.ch/en/Blast.html" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
 <a href="https://www.hornworts.uzh.ch/en/hornwort-genomes.html" class="btn btn-info sps-btn" role="button" target="_blank">Genome Browser</a>
@@ -5,8 +9,7 @@
 <button type="button" class="btn btn-light" data-toggle="modal" data-target="#expr_atlas">
   Expression Atlas
 </button><br>
-<br>
-<br>
+<br style="clear:both"/>
 
 <p>
   Anthoceros agrestis is a species of hornwort, an early-diverging group of non-vascular plants. Here are its main characteristics:

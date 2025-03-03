@@ -1,3 +1,7 @@
+<br>
+<img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
+<h1><?php echo $sps_subtitle ?></h1>
+<h3 style="color:#666"><i><?php echo $sps_title ?></i></h3>
 <a href="https://phytozome-next.jgi.doe.gov/info/CpurpureusGG1_v1_1" class="btn btn-info sps-btn" role="button" target="_blank">Genome GG1 v1.1</a>
 <a href="https://phytozome-next.jgi.doe.gov/info/CpurpureusR40_v1_1" class="btn btn-info sps-btn" role="button" target="_blank">Genome R40 v1.1</a>
 <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FCpurpureusGG1_v1_1&loc=U%3A400001..500000&tracks=Transcripts%2CAlt_Transcripts%2CPASA_assembly%2CBlastx_protein%2CBlatx_BasalEmbryophyte&highlight=" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser GG1 v1.1</a>
@@ -6,13 +10,9 @@
 <button type="button" class="btn btn-light" data-toggle="modal" data-target="#expr_atlas">
   Expression Atlas
 </button><br>
-<br>
-<br>
-<br>
-<br>
+<br style="clear:both"/>
 
-
-<p style="margin-top:20px">
+<p>
 	<i>Ceratodon purpureus</i> commonly known as the "purple horn-toothed moss" due to its distinctive purple or reddish sporophytes (spore capsules), is a member of the species-rich moss order Dicraniidae. <i>C. purpureus</i> has several key characteristics:
 </p>
     <ul>
