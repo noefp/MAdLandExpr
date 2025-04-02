@@ -7,6 +7,7 @@
 <a href="https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight=" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser V3 (CoGe)</a>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
 <a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
+<a href="https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_search_input.php" class="btn btn-info sps-btn" target="_blank">PpGMLDB</a>
 <a href="easy_gdb/downloads/" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
 <br style="clear:both"/>
 

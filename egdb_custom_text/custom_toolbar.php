@@ -28,7 +28,6 @@
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Related Sites</a>
   <div class="dropdown-menu">
     <a class="dropdown-item" href="https://peatmoss.plantcode.cup.uni-freiburg.de/expression_viewer/input" target="_blank">PEATmoss</a>
-    <a class="dropdown-item" href="https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_search_input.php" target="_blank">PpGMLDB</a>
     <a class="dropdown-item" href="https://madland.science/" target="_blank">MAdLand</a>
   </div>
 </li>
