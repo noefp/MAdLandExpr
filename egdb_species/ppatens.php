@@ -4,10 +4,10 @@
 <h3 style="color:#666"><i><?php echo $sps_title ?></i></h3>
 <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FPpatens_v6_1&loc=Chr01%3A1..100039&tracks=Transcripts%2CAlt_Transcripts%2CPASA_assembly%2CBlastx_protein%2CBlatx_BasalRosid&highlight=" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser V6 (Phytozome)</a>
 <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FPpatens_v3_3&loc=Chr01%3A1..100039&tracks=Transcripts%2CAlt_Transcripts%2CPASA_assembly%2CBlastx_protein%2CBlatx_BasalEmbryophyte&highlight=" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser V3 (Phytozome)</a>
-<a href="https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight=" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser V3 (CoGe)</a>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button">BLAST</a>
+<a href="https://genomevolution.org/coge/GenomeView.pl?gid=33928&tracks=sequence%2Cfeature_group130097&loc=1%3A1..150035&highlight=" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser V3 (CoGe)</a>
 <a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
-<a href="https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_search_input.php" class="btn btn-info sps-btn" target="_blank">PpGMLDB</a>
+<a href="/easy_gdb/tools/gene_lookup.php" class="btn btn-info sps-btn">Gene Version Lookup</a>
 <a href="easy_gdb/downloads/" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
 <br style="clear:both"/>
 
