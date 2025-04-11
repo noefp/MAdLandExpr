@@ -85,10 +85,10 @@ $show_qr = 1;
 
 //Gene examples
 $gene_sample = "";
-$input_gene_list="Pp3c1_10090V3.1
-Pp3c1_10200V3.1
-Pp3c1_10880V3.1
-Pp3c1_1160V3.1";
+$input_gene_list="Pp3c1_10090
+Pp3c1_10200
+Pp3c1_10880
+Pp3c1_1160";
 
 
 // Tools
