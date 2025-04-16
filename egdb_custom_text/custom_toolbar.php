@@ -32,5 +32,13 @@
   </div>
 </li>
 
-<li class="nav-item"><a class="nav-link" href="/easy_gdb/downloads.php">Downloads</a></li>
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Downloads</a>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="/easy_gdb/downloads.php">Download Files</a>
+    <a class="dropdown-item" href="https://github.com/Rensing-Lab/Genome-Zoo" target="_blank">Genome Zoo</a>
+  </div>
+</li>
+
+<!-- <li class="nav-item"><a class="nav-link" href="/easy_gdb/downloads.php">Downloads</a></li> -->
 <li class="nav-item"><a class="nav-link" href="/easy_gdb/help/00_help.php">Help</a></li>
