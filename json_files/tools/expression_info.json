@@ -211,5 +211,29 @@
           "Gd - Gigaspora Exudate 24 h - JuvGam":"gametophore.jpg",
           "Gd - Heat 2h - JuvGam":"gametophore.jpg"
         }
+    },
+  "01 Spirogyra Development.txt":
+    {"link":"",
+      "annotation_file":"",
+      "description":"sp_rna_dev.php",
+      "images":""
+    },
+  "02 Spirogyra Cytokinin.txt":
+    {"link":"",
+      "annotation_file":"",
+      "description":"sp_rna_ck.php",
+      "images":""
+    },
+  "03 Spirogyra Osmostress.txt":
+    {"link":"",
+      "annotation_file":"",
+      "description":"sp_rna_osmo.php",
+      "images":""
+    },
+  "04 Spirogyra Gradient.txt":
+    {"link":"",
+      "annotation_file":"",
+      "description":"sp_rna_grad.php",
+      "images":""
     }
 }
