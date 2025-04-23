@@ -4,9 +4,7 @@
 <h3 style="color:#666"><i><?php echo $sps_title ?></i></h3>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
 <a href="easy_gdb/downloads/" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
-<button type="button" class="btn btn-light" data-toggle="modal" data-target="#expr_atlas">
-  Expression Atlas
-</button><br>
+<a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
 <br style="clear:both"/>
 
 <p>
