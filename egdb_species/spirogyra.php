@@ -3,8 +3,8 @@
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><i><?php echo $sps_title ?></i></h3>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
-<a href="easy_gdb/downloads/" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
 <a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
+<a href="/downloads/downloads.php" class="btn btn-info sps-btn" role="button">Downloads</a>
 <br style="clear:both"/>
 
 <p>
