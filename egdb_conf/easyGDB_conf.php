@@ -17,20 +17,25 @@ $json_files_path = "$root_path/$egdb_files_folder/json_files";
 // Custom css file
 $custom_css_path = "$egdb_files_folder/css/madland.css";
 
-// $annotation_links_path = "$root_path/$egdb_files_folder/annotations";
-
 //Expression
 $expression_path = "$root_path/expression_data/peatmoss2";
 $private_expression_path = "$root_path/private_expression_data/peatmoss2";
+
+//Coexpression
+$coexpression_path = "$root_path/coexpression";
 
 //Passport
 $passport_path = "$root_path/passport";
 $phenotype_imgs_path = "$images_path/descriptors_imgs";
 
-// header: site title, header image and logo
+//Site title, site logo and header image
 $dbTitle = "MAdLandExpression";
-$header_img = "cover.jpg";
 $db_logo = "logos/madland_logo.jpg";
+
+// Select 0 to disable the header image, or provide an image filename to display it.
+$header_img = "cover.jpg";
+
+//SWITCHES
 
 // Select 1 to store annotations in files or 0 to store annotations in a relational database
 $file_database = 1;
@@ -85,10 +90,10 @@ $show_qr = 1;
 
 //Gene examples
 $gene_sample = "";
-$input_gene_list="Pp3c1_10090
-Pp3c1_10200
-Pp3c1_10880
-Pp3c1_1160";
+$input_gene_list="Pp3c1_10090V3.1
+Pp3c1_10200V3.1
+Pp3c1_10880V3.1
+Pp3c1_1160V3.1";
 
 
 // Tools
@@ -99,6 +104,9 @@ $max_expression_input = 100;
 $max_annotation_input = 15000;
 
 // BLAST
+//enable BLAST in multiple databases simultaneously
+$multiple_blast_db = 1;
+
 $blast_example=">protein_or_DNA
 GGAGGTGACTAGGGAGGGCGATGTAATAGAACTGGAGCAATGTATTGTGCATGATCGGAA
 GCGAATCCGAGTCTTGCAACAGCTGGGAGCTCGGAGACGTGTCATGATATATCGTGAAAC
@@ -108,4 +116,3 @@ TTACACCGCGCAGAACCTGGAGAATCAGCTCCCTTGCTTACTAAGGTTCTTGCCGGACAG
 CTGGTGCCTGTAGACGCGGTGGGATTGG";
 
 ?>
-

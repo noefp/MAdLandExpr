@@ -20,6 +20,7 @@
     <a class="dropdown-item" href="/easy_gdb/tools/fasta_download.php">Sequence Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/annot_input_list.php">Annotation Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/gene_lookup.php">Gene Version Lookup</a>
+    <a class="dropdown-item" href="/easy_gdb/tools/coexpression/coex_input.php">Coexpression Search</a>
 
   </div>
 </li>

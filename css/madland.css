@@ -134,3 +134,26 @@ h4 {
 .navbar .dropdown-item:hover {
     background-color: darkgreen;
 }
+
+.sequence_blast_box {
+  border-radius: 0.25rem !important;
+  border: 1px solid #ced4da !important;
+}
+
+.blast_box {
+  border-radius: 0.25rem !important;
+  border: 1px solid #ced4da !important;
+}
+
+.sequence_box {
+  border-radius: 0.25rem !important;
+  border: 1px solid #ced4da !important;
+}
+
+.dropbtn {
+  background-color: #203d00 !important;
+  }
+
+.dropbtn:hover {
+  background-color: darkgreen !important;
+}
