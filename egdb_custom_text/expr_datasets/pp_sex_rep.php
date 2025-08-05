@@ -1,7 +1,7 @@
 <p>
   RNA-seq expression data of <i>P. patens</i> experiments conducted in sexual organs and first stages of the sporophyte development. All samples were normalized to RPKM.
   
-  The experiments of this dataset were published in <a href="https://doi.org/10.1007/s00497-021-00409-0">Genau et al., 2021</a> (Gametophore apices), <a href="https://doi.org/10.1111/nph.16486">Meyberg et al., 2020</a> (antheridia 21 DAI), <a href="https://doi.org/10.3389/fpls.2020.00813">Haas et al., 2020</a> (unfertilized archegonia egg cell and venter cells, E0 embryo adn venter cells, and ES1), <a href="https://doi.org/10.1093%2Fgbe%2Fevx098">Szövényi et al., 2020</a> (E0/E1/E2, ES/ES1, green sporophyte premeiotic), <a href="https://doi.org/10.1038/s41477-021-00958-2">Julca et al., 2021</a> (Reute antheridia development, sperm cell packages, and mature archegonia).
+  The experiments of this dataset were published in <a href="https://doi.org/10.1007/s00497-021-00409-0">Genau et al., 2021</a> (Gametophore apices), <a href="https://doi.org/10.1111/nph.16486">Meyberg et al., 2020</a> (antheridia 21 DAI), <a href="https://doi.org/10.3389/fpls.2020.00813">Haas et al., 2020</a> (unfertilized archegonia egg cell and venter cells, E0 embryo adn venter cells, and ES1), <a href="https://doi.org/10.1093%2Fgbe%2Fevx098">Szövényi et al., 2020</a> (E0/E1/E2, ES/ES1, green sporophyte premeiotic), <a href="https://doi.org/10.1038/s41477-021-00958-2">Julca et al., 2021</a> (Gransden antheridia development, sperm cell packages, and mature archegonia).
   
 </p>
 
@@ -14,11 +14,11 @@
   <hr>
   <li><span style="color:green;">Re - Antheridia 21 DAI</span></li>
   <hr>
-  <li><span style="color:green;">Re - Antheridia 9 DAI (antheridia 9 days after induction)</span></li>
-  <li><span style="color:green;">Re - Antheridia 11 DAI (antheridia 11 days after induction)</span> [5 replicates]</li>
-  <li><span style="color:green;">Re - Antheridia 14-15 DAI (antheridia 14-15 days after induction)</span> [4 replicates]</li>
-  <li><span style="color:green;">Re - Sperm Cell Packages</span></li>
-  <li><span style="color:orange;">Re - Mature Archegonia</span></li>
+  <li><span style="color:green;">Gd - Antheridia 9 DAI (antheridia 9 days after induction)</span></li>
+  <li><span style="color:green;">Gd - Antheridia 11 DAI (antheridia 11 days after induction)</span> [5 replicates]</li>
+  <li><span style="color:green;">Gd - Antheridia 14-15 DAI (antheridia 14-15 days after induction)</span> [4 replicates]</li>
+  <li><span style="color:green;">Gd - Sperm Cell Packages</span></li>
+  <li><span style="color:orange;">Gd - Mature Archegonia</span></li>
   <hr>
   <li><span style="color:orange;">Vx - Unfertilized archegonia egg cell</span></li>
   <li><span style="color:orange;">Vx - Unfertilized archegonia venter cells</span></li>
@@ -35,6 +35,7 @@
 
 <p>
   Re: Reute WT<br>
+  Gd: Gransden WT<br>
   Vx: Villersexel WT<br>
   DAI: days after induction<br>
   2 DAW: 2 days after watering<br>
