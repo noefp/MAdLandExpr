@@ -7,6 +7,7 @@
   <div class="dropdown-menu">
     <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_input.php">Gene Expression Viewer</a>
     <a class="dropdown-item" href="/easy_gdb/tools/expression/comparator_input.php">Expression comparator</a>
+    <a class="dropdown-item" href="/easy_gdb/tools/coexpression/coex_input.php">Coexpression Search</a>
     <a class="dropdown-item" href="/easy_gdb/tools/expression/expression_menu.php">Datasets</a>
   </div>
 </li>
@@ -20,8 +21,6 @@
     <a class="dropdown-item" href="/easy_gdb/tools/fasta_download.php">Sequence Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/annot_input_list.php">Annotation Extraction</a>
     <a class="dropdown-item" href="/easy_gdb/tools/gene_lookup.php">Gene Version Lookup</a>
-    <a class="dropdown-item" href="/easy_gdb/tools/coexpression/coex_input.php">Coexpression Search</a>
-
   </div>
 </li>
 
