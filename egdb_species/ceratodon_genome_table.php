@@ -3,30 +3,45 @@
          <thead>
            <tr>
              <th></th>
-             <th>Contigs</th>
-             <th>Scaffolds</th>
+             <th>GG1 (female)</th>
+             <th>R40 (male)</th>
            </tr>
          </thead>
          <tbody>
            <tr>
-             <td>Total assembly size (Mb)</td>
-             <td>465.87</td>
-             <td>471.85</td>
+             <td>Scaffold total</td>
+             <td>111</td>
+             <td>151</td>
            </tr>
            <tr>
-             <td>Total assembled sequences</td>
-             <td>3,000</td>
-             <td>357</td>
+             <td>Contig total</td>
+             <td>558</td>
+             <td>601</td>
            </tr>
            <tr>
-             <td>N50 (Mb)</td>
-             <td>0.47</td>
-             <td>17.44</td>
+             <td>Scaffold sequence total (Mb)</td>
+             <td>349.5 (1.4% gap)</td>
+             <td>362.5 (1.2% gap)</td>
            </tr>
            <tr>
-             <td>L50</td>
-             <td>311</td>
-             <td>12</td>
+             <td>Chromosome Sequence (Mb)</td>
+             <td>342.4</td>
+             <td>342.4</td>
+           </tr>
+           <tr>
+             <td>Contig sequence total (Mb)</td>
+             <td>342.4</td>
+             <td>342.4</td>
+           </tr>
+           <tr>
+             <td>Scaffold N/L50</td>
+             <td>4 / 22.4 Mb</td>
+             <td>4 / 25.2 Mb</td>
+           </tr>
+           <tr>
+             <td>Contig N/L50</td>
+             <td>74 / 1.4 Mb</td>
+             <td>73 / 1.4 Mb</td>
            </tr>
          </tbody>
        </table>

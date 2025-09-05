@@ -22,17 +22,20 @@
         <li><strong>Model for Genetic Studies:</strong> <em>C. purpureus</em> has been used as a model organism for studying genetic and physiological responses to environmental stress, due to its ability to withstand harsh conditions. The species is easily cultivated in sterile conditions, is readily clonally propagated, and is amenable to genetic manipulation using modern CRISPR approaches as well as classical mutagens. It is an emerging model system for the study of several evolutionary genetic phenomena, including the evolution of reproductive isolation, sex chromosomes, and sexual dimorphism, and also interesting for the study of gravitropism and phototropism</li>
     </ul>
     
-<h1 class="text-center"> Work in progress... </h1>
+<!-- <h1 class="text-center"> Work in progress... </h1>
 <br>
 
 
 <h3>Documents</h3>
 <br>
-<br>
+<br> -->
 
+The available <i>Ceratodon purpureous</i> genomes were published at <a href="https://doi.org/10.1126/sciadv.abh2488" target="_blank">Carey et al. 2021.</a>
+<br>
+<br>
 
 <h3>Genome assembly stats</h3>
-<br>
+<?php include_once("ceratodon_genome_table.php");?>
 <br>
 
 
