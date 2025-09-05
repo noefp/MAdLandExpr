@@ -26,16 +26,20 @@
   These features highlight <i>Chara braunii</i> as a model organism for studying the evolutionary steps leading from aquatic algae to the complex land plants we see today.
 </p>
 
-<h1 class="text-center"> Work in progress... </h1>
+<!-- <h1 class="text-center"> Work in progress... </h1>
 <br>
 
 <h3>Documents</h3>
+<br>
+<br> -->
+
+The available <i>Chara braunii</i> S276 genome v1 was published at <a href="https://doi.org/10.1016/j.cell.2018.06.033" target="_blank">Nishiyama et al. 2018.</a>
 <br>
 <br>
 
 
 <h3>Genome assembly stats</h3>
-<br>
+<?php include_once("chara_genome_table.php");?>
 <br>
 
 <h3>Taxonomy</h3>
