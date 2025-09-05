@@ -42,7 +42,7 @@
 <br>
 <br> -->
 
-The available Anthoceros genomes were published at <a href="https://doi.org/10.1038/s41477-020-0618-2" target="_blank">Li, FW. et al. 2020.</a>
+The available Anthoceros genomes were published at <a href="https://doi.org/10.1038/s41477-020-0618-2" target="_blank">Li et al. 2020.</a>
 <br>
 <br>
 
