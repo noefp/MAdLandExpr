@@ -34,17 +34,20 @@
 
 </p>
 
-<h1 class="text-center"> Work in progress... </h1>
+<!-- <h1 class="text-center"> Work in progress... </h1>
 <br>
 <br>
 
 <h3>Documents</h3>
 <br>
-<br>
+<br> -->
 
+The available Anthoceros genomes were published at <a href="https://doi.org/10.1038/s41477-020-0618-2" target="_blank">Li, FW. et al. 2020.</a>
+<br>
+<br>
 
 <h3>Genome assembly stats</h3>
-<br>
+<?php include_once("anthoceros_genome_table.php");?>
 <br>
 
 <h3>Taxonomy</h3>
