@@ -3,6 +3,7 @@
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><i><?php echo $sps_title ?></i></h3>
 <a href="https://bioinformatics.psb.ugent.be/orcae/overview/Chbra" class="btn btn-info sps-btn" role="button" target="_blank">ORCAE</a>
+<a href="https://phycocosm.jgi.doe.gov/Chabra1/Chabra1.home.html" class="btn btn-info sps-btn" role="button" target="_blank">PhycoCosm</a>
 <a href="https://bioinformatics.psb.ugent.be/blast/moderated/?project=orcae_Chbra" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
 <a href="https://bioinformatics.psb.ugent.be/gdb/Chara_braunii/" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
 <button type="button" class="btn btn-light" data-toggle="modal" data-target="#expr_atlas">
