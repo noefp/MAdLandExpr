@@ -1,47 +1,126 @@
 <!-- Help -->
 <div>
-  <a class="float-right" href="https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html" target="_blank"><i class='fa fa-info' style='font-size:20px;color:#229dff'></i> Help</a>
+  <a class="float-right" href="https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html" target="_blank">
+    <i class='fa fa-info' style='font-size:20px;color:#229dff'></i> Help
+  </a>
 </div>
 <br>
 
 <div class="width900">
   <div class="row">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="col-12">
 
       <!-- Genome Browser -->
-      <h2 class="text-center">Genome Browser</h2>
+      <h1 class="text-center">Genome Browser <i class="fas fa-dna" style="color:#555"></i><i class="fas fa-search" style="color:#555"></i></h1>
+      <br>
+      <div id="genome-browser-container" class="form margin-20" style="margin:auto; max-width:900px">
+
+
 
       <!-- Instructions -->
-      <p class="text-center">
-        To explore the genomic data of different species, please select one of the options below. Check out the <a href="/easy_gdb/species.php" target="_blank">species page</a> for additional information and options.
-      </p>
-      <div class="row">
-        <div class="row">
-          <?php
-            if ( file_exists("$species_path/species_list.json") ) {
-              $sps_json_file = file_get_contents("$species_path/species_list.json");
-              $species_hash = json_decode($sps_json_file, true);
-
-              foreach($species_hash as $key => $value) {
-                if ($species_hash[$key]["public"]) {
-                  echo '<div class="select">';
-                  echo '<a href="'.$species_hash[$key]["jbrowse"].'" class="d-flex align-items-center justify-content-center flex-column zoom-img">';
-                  echo '<img class="solid alignnone size-medium wp-image-3011 rounded-circle image" alt="'.$species_hash[$key]["sps_name"].'" width="200px" height="220px" src="'.$images_path.'/species/'.$species_hash[$key]["image"].'">';
-                  echo '</a>';
-                  echo '<div class="text-center">';
-                  echo '<strong><em>'.$species_hash[$key]["sps_name"].'</em></strong>';
-                  echo '<br>';
-                  echo '</div>';
-                  echo '</div>';
-                }
-              }
-            }
-          ?>
+      <div id="color_default\" class="alert alert-primary" role="alert" style="display:block;margin:0px">
+        <div class="card-body" style="padding:0px;text-align:center">
+          To explore the genomic data of different species, please select one of the options below. 
+          <br>
+          Check out the <a href="/easy_gdb/species.php" target="_blank">species page</a> for additional information and options.
         </div>
+      </div>
+
+      <br>
+
+      <!-- List -->
+      <div class="row">
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Chara braunii</i></h5>
+          <div class="list-group">
+            <a href="https://bioinformatics.psb.ugent.be/orcae/overview/Chbra" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              C. braunii v1
+              <span class="badge badge-secondary badge-pill">ORCAE</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Spirogyra pratensis</i></h5>
+          <div class="list-group">
+            <a href="https://phycocosm.jgi.doe.gov/Spipra1/Spipra1.home.html" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              S. pratensis v1
+              <span class="badge badge-info badge-pill">PhycoCosm</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="row">
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Physcomitrium patens</i></h5>
+          <div class="list-group">
+            <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FPpatens_v6_1" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              P. patens v6.1
+              <span class="badge badge-success badge-pill">Phytozome</span>
+            </a>
+            <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FPpatens_v3_3" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              P. patens v3.3
+              <span class="badge badge-success badge-pill">Phytozome</span>
+            </a>
+            <a href="https://genomevolution.org/coge/GenomeView.pl?gid=33928" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              P. patens v3.3
+              <span class="badge badge-warning badge-pill">CoGe</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Ceratodon purpureus</i></h5>
+          <div class="list-group">
+            <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FCpurpureusGG1_v1_1" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              C. purpureus v1.1 (GG1)
+              <span class="badge badge-success badge-pill">Phytozome</span>
+            </a>
+            <a href="https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FCpurpureusR40_v1_1" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              C. purpureus v1.1 (R40)
+              <span class="badge badge-success badge-pill">Phytozome</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="row">
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Anthoceros agrestis</i></h5>
+          <div class="list-group">
+            <a href="https://www.hornworts.uzh.ch/en/hornwort-genomes.html" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              A. agrestis v1
+              <span class="badge badge-primary badge-pill">Hornworts DB</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <h5 style="color:#b52b27"><i>Marchantia polymorpha</i></h5>
+          <div class="list-group">
+            <a href="https://marchantia.info/viewer/MpTak_v7.1/" target="_blank"
+               class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+              M. polymorpha v7.1
+              <span class="badge badge-danger badge-pill">MarpolBase</span>
+            </a>
+          </div>
+        </div>
+      </div>
       </div>
 
     </div>
   </div>
 </div>
-
-<br>
