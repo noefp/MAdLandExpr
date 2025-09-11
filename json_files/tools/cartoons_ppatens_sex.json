@@ -26,7 +26,7 @@
         "height":618
       },
       { "img_id":"t4",
-        "sample":"Re - Antheridia 9 DAI",
+        "sample":"Gd - Antheridia 9 DAI",
         "image":"Antherid9.png",
         "x":10,
         "y":10,
@@ -34,7 +34,7 @@
         "height":618
       },
       { "img_id":"t5",
-        "sample":"Re - Antheridia 11 DAI",
+        "sample":"Gd - Antheridia 11 DAI",
         "image":"Antherid_11.png",
         "x":10,
         "y":10,
@@ -42,7 +42,7 @@
         "height":618
       },
       { "img_id":"t6",
-        "sample":"Re - Antheridia 14-15 DAI",
+        "sample":"Gd - Antheridia 14-15 DAI",
         "image":"Antherid_14-15.png",
         "x":10,
         "y":10,
@@ -50,7 +50,7 @@
         "height":618
       },
       { "img_id":"t7",
-        "sample":"Re - Sperm Cell Packages",
+        "sample":"Gd - Sperm Cell Packages",
         "image":"Sperm_Packg.png",
         "x":10,
         "y":10,
@@ -58,7 +58,7 @@
         "height":618
       },
       { "img_id":"t8",
-        "sample":"Re - Mature Archegonia",
+        "sample":"Gd - Mature Archegonia",
         "image":"MatureArch.png",
         "x":10,
         "y":10,
