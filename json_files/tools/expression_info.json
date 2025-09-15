@@ -216,7 +216,13 @@
     {"link":"",
       "annotation_file":"",
       "description":"sp_rna_dev.php",
-      "images":""
+      "images":
+      {
+        "Young spores":"spirogyra_young_spores.png",
+        "Immature spores":"spirogyra_immature_spores.png",
+        "Mature spores":"spirogyra_mature_spores.png",
+        "Vegetative":"spirogyra_vegetative.png"
+      }
     },
   "02 S.pratensis Cytokinin.txt":
     {"link":"",
