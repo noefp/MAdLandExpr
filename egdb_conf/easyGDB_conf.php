@@ -30,7 +30,7 @@ $phenotype_imgs_path = "$images_path/descriptors_imgs";
 
 //Site title, site logo and header image
 $dbTitle = "MAdLandExpression";
-$db_logo = "logos/madland_logo.jpg";
+$db_logo = "logos/madland_head_logo.png";
 
 // Select 0 to disable the header image, or provide an image filename to display it.
 $header_img = "cover.jpg";
