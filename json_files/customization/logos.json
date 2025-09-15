@@ -1,17 +1,21 @@
 {
   "logos":
     [
-      { "image":"madland_logo.jpg",
-        "link":"https://www.google.com/",
-        "height":"80"
+      { "image":"madland_logo.png",
+        "link":"https://madland.science/",
+        "height":"90"
       },
       { "image":"dfg_logo.jpg",
-        "link":"https://www.google.com/",
+        "link":"https://www.dfg.de/en",
         "height":"60"
       },
       { "image":"plantco.de_logo.png",
-        "link":"https://www.google.com/",
-        "height":"40"
+        "link":"https://plantco.de/",
+        "height":"55"
+      },
+      { "image":"ihsm_logo.png",
+        "link":"https://www.ihsm.uma-csic.es/",
+        "height":"65"
       }
     ]
 }
