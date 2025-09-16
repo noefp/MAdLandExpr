@@ -241,5 +241,12 @@
       "annotation_file":"",
       "description":"sp_rna_grad.php",
       "images":""
+    },
+  "01 A.agrestis Sporophyte LCM.txt":
+    {"link":"",
+      "annotation_file":"",
+      "description":"agrestis_lcm.php",
+      "cartoons":"cartoons_agrestis_lcm.json",
+      "images":""
     }
 }

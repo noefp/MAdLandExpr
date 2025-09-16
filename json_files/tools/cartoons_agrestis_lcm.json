@@ -1,0 +1,54 @@
+{
+  "cartoons":
+    [
+      { "img_id":"t1",
+        "sample":"Gametophyte",
+        "image":"Aagrestis_Gametophyte.png",
+        "x":10,
+        "y":10,
+        "width":450,
+        "height":597
+      },
+      { "img_id":"t2",
+        "sample":"Foot Parenchyma",
+        "image":"Aagrestis_Foot.png",
+        "x":10,
+        "y":10,
+        "width":450,
+        "height":597
+      },
+      { "img_id":"t3",
+        "sample":"Meristem",
+        "image":"Aagrestis_StemCells.png",
+        "x":10,
+        "y":10,
+        "width":450,
+        "height":597
+      },
+      { "img_id":"t4",
+        "sample":"Columella",
+        "image":"Aagrestis_Columella.png",
+        "x":10,
+        "y":10,
+        "width":450,
+        "height":597
+      },
+      { "img_id":"t5",
+        "sample":"Sporogeneous tissue",
+        "image":"Aagrestis_Sporogenous.png",
+        "x":10,
+        "y":10,
+        "width":450,
+        "height":597
+      },
+      { "img_id":"t6",
+        "sample":"Assimilative tissue",
+        "image":"Aagrestis_Assim.png",
+        "x":10,
+        "y":10,
+        "width":450,
+        "height":597
+      }
+    ]
+}
+
