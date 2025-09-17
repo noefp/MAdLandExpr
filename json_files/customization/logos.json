@@ -5,17 +5,21 @@
         "link":"https://madland.science/",
         "height":"90"
       },
-      { "image":"dfg_logo.jpg",
+      { "image":"dfg_logo2.jpg",
         "link":"https://www.dfg.de/en",
-        "height":"60"
+        "height":"85"
+      },
+      { "image":"freiburg_uni.png",
+        "link":"https://uni-freiburg.de/en/",
+        "height":"55"
       },
       { "image":"plantco.de_logo.png",
         "link":"https://plantco.de/",
-        "height":"55"
+        "height":"50"
       },
       { "image":"ihsm_logo.png",
         "link":"https://www.ihsm.uma-csic.es/",
-        "height":"65"
+        "height":"85"
       }
     ]
 }
