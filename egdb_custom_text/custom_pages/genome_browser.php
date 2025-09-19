@@ -13,7 +13,7 @@
       <!-- Genome Browser -->
       <h1 class="text-center">Genome Browser <i class="fas fa-dna" style="color:#555"></i><i class="fas fa-search" style="color:#555"></i></h1>
       <br>
-      <div id="genome-browser-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
 
 
 
