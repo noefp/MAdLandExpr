@@ -1,7 +1,7 @@
 {
   "P.patens_genome_V6.fasta":"https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FPpatens_v6_1&tracks=DNA%2CTranscripts&loc={chr}%3A{start}..{end}",
-  "P.patens_v6_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v6_annotations.txt",
-  "P.patens_v6_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v6_annotations.txt",
+  "P.patens_v6_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v6.1_annotations.txt",
+  "P.patens_v6_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v6.1_annotations.txt",
   "P.patens_genome_V3.fasta":"https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FPpatens_v3_3&loc={chr}%3A{start}..{end}&tracks=DNA%2CTranscripts",
   "P.patens_v3.3_proteins.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v3.3_annotations.txt",
   "P.patens_v3.3_CDS.fasta":"/easy_gdb/gene.php?name={subject}&annot=P.patens/Ppatens_v3.3_annotations.txt",
