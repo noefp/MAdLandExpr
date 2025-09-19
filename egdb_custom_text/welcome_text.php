@@ -5,6 +5,8 @@
 
   <p style="font-size:18px;margin-top: 20px;" class="text-justify">
     <strong></span>MAdLand<span style="color:yellowgreen;">Expression</span></strong> includes expression and genomics data from non-seed plants studied in <a href="https://madland.science/" target="_blank">MAdLand</a>. This site is the successor of PEATmoss, with several genomic tools to access gene expression data, sequences and annotations. External resources are linked for many of these species.
+    <br>
+    Please, <a href='/easy_gdb/custom_view.php?file_name=data_submission.php'>contact us</a> if you would like to submit expression data of bryophytes or streptophyte algae.
   </p>
   <br>
 
