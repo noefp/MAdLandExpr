@@ -12,5 +12,6 @@
   "KEGG":"https://www.genome.jp/entry/query_id",
   "GO (BP)": "https://amigo.geneontology.org/amigo/term/query_id",
   "GO (MF)": "https://amigo.geneontology.org/amigo/term/query_id",
-  "GO (CC)": "https://amigo.geneontology.org/amigo/term/query_id"
+  "GO (CC)": "https://amigo.geneontology.org/amigo/term/query_id",
+  "Evorepro DB": "https://evorepro.sbs.ntu.edu.sg/search/keyword/query_id"
 }
