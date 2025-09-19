@@ -41,7 +41,7 @@ $header_img = "cover.jpg";
 $file_database = 1;
 
 // Set to 1 to remove the jbrowse frame from gene.php. Set to 1 if JBrowse was not installed or setup.
-$rm_jb_frame = 1;
+$rm_jb_frame = 0;
 
 // Toolbar
 $tb_custom = 1;
