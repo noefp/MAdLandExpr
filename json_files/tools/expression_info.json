@@ -1,5 +1,5 @@
 {
-  "01 P.patens development.txt":
+  "01 P.patens vegetative development.txt":
     {"link":"",
       "annotation_file":"P.patens/Ppatens_v3.3_annotations.txt",
       "description":"pp_rna_dev.php",
@@ -23,7 +23,7 @@
           "Gd - Protoplast BslA":"protoplast.jpg"
         }
     },
-    "02 P.patens sexual reproduction.txt":
+    "02 P.patens sexual development.txt":
     {"link":"",
       "annotation_file":"P.patens/Ppatens_v3.3_annotations.txt",
       "description":"pp_sex_rep.php",
@@ -45,7 +45,10 @@
         "Re - ES1":"ES1.jpg",
         "Vx - E0/E1/E2":"F_E1_E2.jpg",
         "Vx - ES/ES1":"ES_ES1.jpg",
-        "Vx - Green Sporophyte PM":"Green Sporophyte.jpg"
+        "Vx - Green Sporophyte PreM":"Green Sporophyte.jpg",
+        "Re - Green Sporophyte M":"mature_sporophyte.jpg",
+        "Re - Brown Sporophyte":"mature_sporophyte.jpg",
+        "Gd - Dry Spores":"spores.jpg"
       }
     },
   "03 P.patens protonema hormones.txt":
