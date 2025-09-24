@@ -24,13 +24,7 @@
   </div>
 </li>
 
-<li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Related Sites</a>
-  <div class="dropdown-menu">
-    <a class="dropdown-item" href="https://peatmoss.plantcode.cup.uni-freiburg.de/expression_viewer/input" target="_blank">PEATmoss</a>
-    <a class="dropdown-item" href="https://madland.science/" target="_blank">MAdLand</a>
-  </div>
-</li>
+<li class="nav-item"><a class="nav-link" href="/easy_gdb/custom_view.php?file_name=links.php">Links</a></li>
 
 <li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Downloads</a>
