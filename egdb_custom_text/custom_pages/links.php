@@ -37,7 +37,7 @@
           <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
-                <a href="https://plantcode.cup.uni-freiburg.de/tapscan/index.php" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
                   TAPscan
                 </a>
               </div>
@@ -166,6 +166,16 @@
             </div>
           </div>
 
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de/species/125" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>C. braunii</i> in TAPscan
+                </a>
+              </div>
+            </div>
+          </div>
+
         </div> <!-- row -->
       </div> <!-- container -->
 
@@ -178,7 +188,7 @@
         <br>
         <div class="row">
 
-          <div class="col-md-12">
+          <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
                 <a href="https://phycocosm.jgi.doe.gov/Spipra1/Spipra1.home.html" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
@@ -187,6 +197,18 @@
               </div>
             </div>
           </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de/species/590" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>S. pratensis</i> in TAPscan
+                </a>
+              </div>
+            </div>
+          </div>
+
+
 
         </div> <!-- row -->
       </div> <!-- container -->
@@ -199,16 +221,6 @@
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Physcomitrium patens</i></h2>
         <br>
         <div class="row">
-
-          <div class="col-md-6 mb-3">
-            <div class="card shadow-sm h-100 link-card">
-              <div class="card-body text-center">
-                <a href="https://plantcode.online.uni-marburg.de/tapscan/TAPs_for_species.php?species=Physcomitrella%20patens&id=98" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
-                  <i>P. patens</i> in TAPscan
-                </a>
-              </div>
-            </div>
-          </div>
 
           <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
@@ -293,6 +305,16 @@
           <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de/species/469" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>P. patens</i> in TAPscan
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
                 <a href="https://evorepro.sbs.ntu.edu.sg/species/view/7" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
                   <i>P. patens</i> in Evorepro
                 </a>
@@ -331,6 +353,17 @@
             </div>
           </div>
 
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de/species/360" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>C. purpureus</i> in TAPscan
+                </a>
+              </div>
+            </div>
+          </div>
+
+
         </div> <!-- row -->
       </div> <!-- container -->
 
@@ -339,15 +372,45 @@
      <!-- Container -->
       <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
         <!-- Grid of links -->
-        <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Anthoceros agrestis</i></h2>
+        <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Anthoceros</i> spp.</h2>
         <br>
         <div class="row">
 
-          <div class="col-md-12">
+          <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
                 <a href="https://www.hornworts.uzh.ch/en.html" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
                   Hornworts Database
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de/species/19" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>A. agrestis</i> in TAPscan
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de/species/20" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>A. angustus</i> in TAPscan
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de/species/22" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>A. punctatus</i> in TAPscan
                 </a>
               </div>
             </div>
@@ -365,7 +428,7 @@
         <br>
         <div class="row">
 
-          <div class="col-md-12">
+          <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
                 <a href="https://marchantia.info/" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
@@ -374,6 +437,27 @@
               </div>
             </div>
           </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://phytozome-next.jgi.doe.gov/info/Mpolymorpha_v3_1" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>M. polymorpha</i> in Phytozome
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://tapscan.plantcode.cup.uni-freiburg.de/species/360" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>M. polymorpha</i> in TAPscan
+                </a>
+              </div>
+            </div>
+          </div>
+
 
         </div> <!-- row -->
       </div> <!-- container -->
@@ -394,6 +478,7 @@
     background-color: #f8f9fa;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
     transform: translateY(-2px);
+    cursor: pointer !important;
   }
   .link-card .stretched-link { text-decoration: none; }
 </style>
