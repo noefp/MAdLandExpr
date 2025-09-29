@@ -128,6 +128,30 @@
         "y":10,
         "width":954,
         "height":618
+      },
+      { "img_id":"t17",
+        "sample":"Re - Green Sporophyte M",
+        "image":"GreenSporo_Postmeiotic.png",
+        "x":10,
+        "y":10,
+        "width":954,
+        "height":618
+      },
+      { "img_id":"t18",
+        "sample":"Re - Brown Sporophyte",
+        "image":"BrownSporophyte.png",
+        "x":10,
+        "y":10,
+        "width":954,
+        "height":618
+      },
+      { "img_id":"t19",
+        "sample":"Gd - Dry Spores",
+        "image":"DrySpores.png",
+        "x":10,
+        "y":10,
+        "width":954,
+        "height":618
       }
     ]
 }
