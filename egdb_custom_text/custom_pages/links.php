@@ -10,7 +10,7 @@
       <!-- Container -->
       <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
         <!-- Grid of links -->
-        <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;">Related sites</h2>
+        <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;">Related sites and tools</h2>
         <br>
         <div class="row">
 
@@ -33,6 +33,17 @@
               </div>
             </div>
           </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://galaxyproject.org/news/2024-01-24-madlanddb-update/" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  MAdLandDB
+                </a>
+              </div>
+            </div>
+          </div>
+
 
           <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
@@ -98,7 +109,7 @@
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
                 <a href="https://bioinformatics.psb.ugent.be/orcae/" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
-                  ORCAE
+                  OrcAE
                 </a>
               </div>
             </div>
@@ -117,6 +128,16 @@
           <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
+                <a href="https://rshiny.gwdg.de/apps/streptotime/" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  Streptotime
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
                 <a href="https://biit.cs.ut.ee/gprofiler/gost" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
                   g:Profiler
                 </a>
@@ -127,8 +148,38 @@
           <div class="col-md-6 mb-3">
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
+                <a href="https://crispor.gi.ucsc.edu" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  CRISPOR
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://conekt.sbs.ntu.edu.sg" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  CoNekT
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
                 <a href="https://evorepro.sbs.ntu.edu.sg" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
                   Evorepro
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://zygnema.sbs.ntu.edu.sg" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  zygnema.plant.tools
                 </a>
               </div>
             </div>
@@ -150,7 +201,7 @@
             <div class="card shadow-sm h-100 link-card">
               <div class="card-body text-center">
                 <a href="https://bioinformatics.psb.ugent.be/orcae/overview/Chbra" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
-                  <i>C. braunii</i> in ORCAE
+                  <i>C. braunii</i> in OrcAE
                 </a>
               </div>
             </div>
@@ -458,9 +509,45 @@
             </div>
           </div>
 
+        </div> <!-- row -->
+      </div> <!-- container -->
+
+      <br>
+
+     <!-- Container -->
+      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+        <!-- Grid of links -->
+        <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;">Ferns</h2>
+        <br>
+        <div class="row">
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://www.fernbase.org" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  FernBase
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-3">
+            <div class="card shadow-sm h-100 link-card">
+              <div class="card-body text-center">
+                <a href="https://phytozome-next.jgi.doe.gov/info/Crichardii_v2_1?s=09" target="_blank" class="stretched-link text-dark" style="color:#6ae !important;">
+                  <i>Ceratopteris richardii</i> in Phytozome
+                </a>
+              </div>
+            </div>
+          </div>
+
+
+
+
 
         </div> <!-- row -->
       </div> <!-- container -->
+
 
     </div>
   </div>
