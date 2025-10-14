@@ -39,8 +39,8 @@
       "link":"ceratodon.php",
       "jbrowse":"https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FCpurpureusGG1_v1_1"
     },
-  "Anthoceros agrestis":
-    {"card_title":"Anthoceros agrestis",
+  "Anthoceros Spp.":
+    {"card_title":"Anthoceros Spp.",
       "card_subtitle":"Hornwort",
       "image":"anthoceros.webp",
       "public":"1",

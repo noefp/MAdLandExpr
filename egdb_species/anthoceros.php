@@ -6,9 +6,8 @@
 <a href="https://www.hornworts.uzh.ch/en/Blast.html" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
 <a href="https://www.hornworts.uzh.ch/en/hornwort-genomes.html" class="btn btn-info sps-btn" role="button" target="_blank">Genome Browser</a>
 <a href="https://www.hornworts.uzh.ch/en/download.html" class="btn btn-info sps-btn" role="button" target="_blank">Downloads</a>
-<button type="button" class="btn btn-light" data-toggle="modal" data-target="#expr_atlas">
-  Expression Atlas
-</button><br>
+<a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>
+<br>
 <br style="clear:both"/>
 
 <p>
