@@ -11,7 +11,8 @@
 <br style="clear:both"/>
 
 <p>
-  Anthoceros agrestis is a species of hornwort, an early-diverging group of non-vascular plants. Here are its main characteristics:
+  Hornworts comprise a bryophyte lineage that diverged from other extant land plants >400 million years ago and bears unique biological features, including a distinct sporophyte architecture, cyanobacterial symbiosis and a pyrenoid-based carbon-concentrating mechanism (CCM).
+  Here are its main characteristics:
 </p>
 
 <ul>
@@ -29,7 +30,7 @@
   </li>
 </ul>
 
-<p>These characteristics make Anthoceros agrestis an interesting species for understanding early plant evolution and the relationships between plants and microbial symbionts.
+<p>These characteristics make Anthoceros spp. interesting species for understanding plant evolution and the relationships between plants and microbial symbionts.
 
 </p>
 
