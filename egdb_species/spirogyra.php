@@ -9,7 +9,8 @@
 <br style="clear:both"/>
 
 <p>
-<em>Spirogyra pratensis</em> is a filamentous green alga that belongs to the group known as Charophytes, closely related to land plants. Its main characteristics are:
+<em>Spirogyra pratensis</em> is a Zygnematophyceae, the streptophyte algal class sister to land plants
+Its main characteristics are:
 </p>
 
 <ul>
@@ -23,15 +24,10 @@
 These characteristics make <em>Spirogyra pratensis</em> a well-known organism in the study of algae and an example of early plant-like features in aquatic species.
 </p>
 
-<h1 class="text-center"> Work in progress... </h1>
-<br>
-
-<h3>Documents</h3>
-<br>
 <br>
 
 <h3>Genome assembly stats</h3>
-<br>
+<?php include_once("spirogyra_genome_table.php");?>
 <br>
 
 <h3>Taxonomy</h3>
