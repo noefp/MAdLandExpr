@@ -251,5 +251,23 @@
       "description":"agrestis_lcm.php",
       "cartoons":"cartoons_agrestis_lcm.json",
       "images":""
+    },
+  "01 C.braunii nodal cells.txt":
+    {"link":"",
+      "annotation_file":"",
+      "description":"cb_nodal.php",
+      "images":""
+    },
+  "01 C.braunii salt response.txt":
+    {"link":"",
+      "annotation_file":"",
+      "description":"cb_salinity.php",
+      "images":""
+    },
+  "01 C.braunii carbon media.txt":
+    {"link":"",
+      "annotation_file":"",
+      "description":"cb_carbon.php",
+      "images":""
     }
 }
