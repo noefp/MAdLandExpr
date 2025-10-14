@@ -15,6 +15,14 @@
       "link":"spirogyra.php",
       "jbrowse":""
     },
+  "Zygnema Spp.":
+    {"card_title":"Zygnema Spp.",
+      "card_subtitle":"Streptophyte alga",
+      "image":"zygnema.png",
+      "public":"1",
+      "link":"zygnema.php",
+      "jbrowse":""
+    },
   "Physcomitrium patens":
     {"card_title":"Physcomitrium patens",
       "card_subtitle":"Moss",
