@@ -12,7 +12,11 @@
   "P.patens_v1.6_proteins.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
   "P.patens_v1.2_cDNA.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
   "P.patens_v1.2_CDS.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
-  "P.patens_v1.2_proteins.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}"
+  "P.patens_v1.2_proteins.fasta":"https://peatmoss.plantcode.cup.uni-freiburg.de/ppatens_db/pp_annot.php?name={subject}",
+  "Sp_v1_genome.fasta":"/easy_gdb/gene.php?name={subject}&annot=S.pratensis/Spratensis_v1_annotations.txt",
+  "Sp_v1_pep.fasta":"/easy_gdb/gene.php?name={subject}&annot=S.pratensis/Spratensis_v1_annotations.txt",
+  "Sp_v1_cds.fasta":"/easy_gdb/gene.php?name={subject}&annot=S.pratensis/Spratensis_v1_annotations.txt",
+  "Sp_v1_cdna.fasta":"/easy_gdb/gene.php?name={subject}&annot=S.pratensis/Spratensis_v1_annotations.txt"
 }
 
 

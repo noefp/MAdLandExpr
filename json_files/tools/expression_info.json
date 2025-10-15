@@ -217,7 +217,7 @@
     },
   "01 S.pratensis Development.txt":
     {"link":"",
-      "annotation_file":"",
+      "annotation_file":"S.pratensis/Spratensis_v1_annotations.txt",
       "description":"sp_rna_dev.php",
       "images":
       {
@@ -229,19 +229,19 @@
     },
   "02 S.pratensis Cytokinin.txt":
     {"link":"",
-      "annotation_file":"",
+      "annotation_file":"S.pratensis/Spratensis_v1_annotations.txt",
       "description":"sp_rna_ck.php",
       "images":""
     },
   "03 S.pratensis Osmostress.txt":
     {"link":"",
-      "annotation_file":"",
+      "annotation_file":"S.pratensis/Spratensis_v1_annotations.txt",
       "description":"sp_rna_osmo.php",
       "images":""
     },
   "04 S.pratensis Gradient.txt":
     {"link":"",
-      "annotation_file":"",
+      "annotation_file":"S.pratensis/Spratensis_v1_annotations.txt",
       "description":"sp_rna_grad.php",
       "images":""
     },
