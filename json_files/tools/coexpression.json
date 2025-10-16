@@ -4,5 +4,7 @@
   "03 P.patens hormones":"P.patens/Ppatens_v3.3_annotations.txt",
   "04 P.patens protonema light":"P.patens/Ppatens_v3.3_annotations.txt",
   "05 P.patens Pi deficiency":"P.patens/Ppatens_v3.3_annotations.txt",
-  "06 P.patens gametophore treatments":"P.patens/Ppatens_v3.3_annotations.txt"
+  "06 P.patens gametophore treatments":"P.patens/Ppatens_v3.3_annotations.txt",
+  "01 S.pratensis Development.txt":"S.pratensis/Spratensis_v1_annotations.txt",
+  "02 S.pratensis Gradient.txt":"S.pratensis/Spratensis_v1_annotations.txt"
 }
