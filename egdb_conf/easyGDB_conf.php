@@ -60,7 +60,10 @@ $tb_seq_ext = 0;
 $tb_annot_ext = 0;
 $tb_lookup = 0;
 $tb_enrichment = 0;
+$tb_help = 0;
 $tb_more = 0;
+$tb_private = 0;
+$tb_passport = 0;
 
 //Gene expression atlas
 $tb_gene_expr = 0;
