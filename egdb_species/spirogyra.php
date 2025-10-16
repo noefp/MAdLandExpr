@@ -2,6 +2,7 @@
 <img class="float-right" style="z-index:0;height:150px" src="<?php echo $images_path.'/species/'.$sps_img ?>" >
 <h1><?php echo $sps_subtitle ?></h1>
 <h3 style="color:#666"><i><?php echo $sps_title ?></i></h3>
+<a href="/jbrowse/?data=data%2Fspirogyra" class="btn btn-info sps-btn jbrowse_link" role="button" target="_blank">Genome Browser</a>
 <a href="https://phycocosm.jgi.doe.gov/Spipra1/Spipra1.home.html" class="btn btn-info sps-btn" role="button" target="_blank">PhycoCosm</a>
 <a href="/easy_gdb/tools/blast/blast_input.php" class="btn btn-info sps-btn" role="button" target="_blank">BLAST</a>
 <a href="/easy_gdb/tools/expression/expression_input.php" class="btn btn-info sps-btn" role="button">Expression Atlas</a>

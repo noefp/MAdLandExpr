@@ -44,6 +44,11 @@
         <div class="col-md-6">
           <h5 style="color:#b52b27"><i>Spirogyra pratensis</i></h5>
           <div class="list-group">
+            <a href="/jbrowse/?data=data%2Fspirogyra" target="_blank"
+              class="list-group-item list-group-item-action d-flex justify-content-between align-items-center jbrowse_link">
+              S. pratensis v1
+              <span class="badge badge-dark badge-pill">MAdLandExpression</span>
+            </a>
             <a href="https://phycocosm.jgi.doe.gov/Spipra1/Spipra1.home.html" target="_blank"
                class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               S. pratensis v1
