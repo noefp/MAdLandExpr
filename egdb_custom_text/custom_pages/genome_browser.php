@@ -49,7 +49,7 @@
               S. pratensis v1
               <span class="badge badge-dark badge-pill">MAdLandExpression</span>
             </a>
-            <a href="https://phycocosm.jgi.doe.gov/Spipra1/Spipra1.home.html" target="_blank"
+            <a href="https://phycocosm.jgi.doe.gov/cgi-bin/browserLoad?db=Spipra1" target="_blank"
                class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
               S. pratensis v1
               <span class="badge badge-info badge-pill">PhycoCosm</span>
