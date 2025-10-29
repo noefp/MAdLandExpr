@@ -8,5 +8,10 @@
     {"displayed_name":"<i>Physcomitrium patens</i> v6.1",
       "description":"",
       "jbrowse":"https://phytozome-next.jgi.doe.gov/jbrowse/index.html?data=genomes%2FPpatens_v6_1&loc={gene_name}&tracks=DNA%2Ctranscripts"
+    },
+  "Cbraunii_v1_annotations.txt":
+    {"displayed_name":"<i>Chara braunii</i> v1",
+      "description":"",
+      "jbrowse":0
     }
 }
