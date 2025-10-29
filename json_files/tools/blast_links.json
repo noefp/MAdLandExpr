@@ -16,7 +16,10 @@
   "Sp_v1_genome.fasta":"/jbrowse/?data=data%2Fspirogyra&loc={chr}%3A{start}..{end}",
   "Sp_v1_pep.fasta":"/easy_gdb/gene.php?name={subject}&annot=S.pratensis/Spratensis_v1_annotations.txt",
   "Sp_v1_cds.fasta":"/easy_gdb/gene.php?name={subject}&annot=S.pratensis/Spratensis_v1_annotations.txt",
-  "Sp_v1_cdna.fasta":"/easy_gdb/gene.php?name={subject}&annot=S.pratensis/Spratensis_v1_annotations.txt"
+  "Sp_v1_cdna.fasta":"/easy_gdb/gene.php?name={subject}&annot=S.pratensis/Spratensis_v1_annotations.txt",
+  "Cbraunii_v1_genome.fasta":"/easy_gdb/gene.php?name={subject}&annot=C.braunii/Cbraunii_v1_annotations.txt",
+  "Cbraunii_v1_cds.fasta":"/easy_gdb/gene.php?name={subject}&annot=C.braunii/Cbraunii_v1_annotations.txt",
+  "Cbraunii_v1_pep.fasta":"/easy_gdb/gene.php?name={subject}&annot=C.braunii/Cbraunii_v1_annotations.txt"
 }
 
 
