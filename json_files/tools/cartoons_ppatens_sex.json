@@ -66,7 +66,7 @@
         "height":618
       },
       { "img_id":"t9",
-        "sample":"Vx - Unfert Archegonia EggCell",
+        "sample":"Vx - LCM Unfert Archegonia EggCell",
         "image":"UnfertArch_Egg.png",
         "x":10,
         "y":10,
@@ -74,7 +74,7 @@
         "height":618
       },
       { "img_id":"t10",
-        "sample":"Vx - Unfert Archegonia VenterCells",
+        "sample":"Vx - LCM Unfert Archegonia VenterCells",
         "image":"UnfertArch_Venter.png",
         "x":10,
         "y":10,
@@ -82,7 +82,7 @@
         "height":618
       },
       { "img_id":"t11",
-        "sample":"Vx - E0 VenterCells",
+        "sample":"Vx - LCM E0 VenterCells",
         "image":"E0_Venter.png",
         "x":10,
         "y":10,
@@ -90,7 +90,7 @@
         "height":618
       },
       { "img_id":"t12",
-        "sample":"Vx - E0 Embryo",
+        "sample":"Vx - LCM E0 Embryo",
         "image":"E0_Embryo.png",
         "x":10,
         "y":10,
