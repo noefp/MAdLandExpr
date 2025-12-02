@@ -1,42 +1,97 @@
+<br>
 <p>
-  RNA-seq expression data of <i>P. patens</i> experiments conducted in sexual organs and first stages of the sporophyte development. All samples were normalized to RPKM.
-  
-  The experiments of this dataset were published in <a href="https://doi.org/10.1007/s00497-021-00409-0">Genau et al., 2021</a> (Gametophore apices), <a href="https://doi.org/10.1111/nph.16486">Meyberg et al., 2020</a> (antheridia 21 DAI), <a href="https://doi.org/10.1038/s41477-021-00958-2">Julca et al., 2021</a> (Gransden antheridia development, sperm cell packages, mature archegonia and sporophyte), <a href="https://doi.org/10.3389/fpls.2020.00813">Haas et al., 2020</a> (Laser Capture Microdissection of egg cell and E0 embryo together with venter cells of their corresponding unfertilized and fertilized archegonia. Also Bulk RNAseq of ES1), <a href="https://doi.org/10.1093%2Fgbe%2Fevx098">Szövényi et al., 2017</a> (E0/E1/E2, ES/ES1, green sporophyte premeiotic).
-  
-  More information about RNA-seq extraction, amplification and mapped reads is available in <?php echo '<a href="/sample_information.xlsx">sample_information.xlsx</a>'?>.
+  RNA-seq expression data of <i>P. patens</i> experiments conducted in sexual organs and first stages of the sporophyte development. 
+  All samples were normalized to RPKM.
+  <br>
+  The experiments of this dataset were published in <a href="https://doi.org/10.1007/s00497-021-00409-0">Genau et al., 2021</a> (Gametophore apices), 
+  <a href="https://doi.org/10.1111/nph.16486">Meyberg et al., 2020</a> (antheridia 21 DAI), 
+  <a href="https://doi.org/10.1038/s41477-021-00958-2">Julca et al., 2021</a> (Gransden antheridia development, sperm cell packages, mature archegonia and Granden sporophyte development), 
+  <a href="https://doi.org/10.3389/fpls.2020.00813">Haas et al., 2020</a> (Laser Capture Microdissection of egg cell and E0 embryo together with venter cells of their corresponding unfertilized and fertilized archegonia. Also Bulk RNAseq of ES1),
+  <a href="https://doi.org/10.1093%2Fgbe%2Fevx098">Szövényi et al., 2017</a> (E0/E1/E2, ES/ES1, green sporophyte premeiotic).
+  <br>
+  <br>
+  Due to the small tissue size all samples but the gametophore apices required PCR amplification. For more information about RNA-seq extraction, amplification and mapped reads see the file <?php echo '<a href="/sample_information.xlsx">sample_information.xlsx</a>'?>.
 </p>
 
 <h4>Experimental Conditions (3 replicates unless otherwise noted):</h4>
 
-
 <ul>
-  <li><span style="color:blue;">Re - Gam apice 21 DAI (gametophore apices without watering)</span></li>
-  <li><span style="color:blue;">Re - Gam apice 2 DAW (gametophore apices 2 days after watering)</span></li>
-  <hr>
+  <div class="row">
+  <div class="col-8">
+    <li><span style="color:blue;">Re - Gam apice 21 DAI (gametophore apices without watering)</span></li>
+    <li><span style="color:blue;">Re - Gam apice 2 DAW (gametophore apices 2 days after watering)</span></li>
+  </div>
+  <div class="col-4">
+    <a href="https://doi.org/10.1007/s00497-021-00409-0">Genau et al., 2021</a>
+  </div>
+  </div>
+<hr>
+  <div class="row">
+  <div class="col-8">
   <li><span style="color:green;">Re - Antheridia 21 DAI</span></li>
+</div>
+  <div class="col-4">
+    <a href="https://doi.org/10.1111/nph.16486">Meyberg et al., 2020</a>
+  </div>
+  </div>
+<hr>
+  <div class="row">
+  <div class="col-8">
+    <li><span style="color:green;">Gd - Antheridia 9 DAI (antheridia 9 days after induction)</span></li>
+    <li><span style="color:green;">Gd - Antheridia 11 DAI (antheridia 11 days after induction)</span> [5 replicates]</li>
+    <li><span style="color:green;">Gd - Antheridia 14-15 DAI (antheridia 14-15 days after induction)</span> [4 replicates]</li>
+    <li><span style="color:green;">Gd - Sperm Cell Packages</span></li>
+    <li><span style="color:orange;">Gd - Mature Archegonia</span></li>
+  </div>
+  <div class="col-4">
+    <a href="https://doi.org/10.1038/s41477-021-00958-2">Julca et al., 2021</a>
+  </div>
+  </div>
+<hr>
+  <div class="row">
+  <div class="col-8">
+    <li><span style="color:orange;">Vx - LCM Unfertilized archegonia egg cell</span></li>
+    <li><span style="color:orange;">Vx - LCM Unfertilized archegonia venter cells</span></li>
+    <li><span style="color:red;">Vx - LCM E0 Embryo</span></li>
+    <li><span style="color:red;">Vx - LCM E0 Venter cells</span></li>
+  </div>
+  <div class="col-4">
+    <a href="https://doi.org/10.3389/fpls.2020.00813">Haas et al., 2020</a>
+  </div>
+  </div>
+<hr>
+  <div class="row">
+  <div class="col-8">
+    <li><span style="color:red;">Re - ES1</span> [1 replicate]</li>
+  </div>
+  <div class="col-4">
+    <a href="https://doi.org/10.3389/fpls.2020.00813">Haas et al., 2020</a>
+  </div>
+  </div>
   <hr>
-  <li><span style="color:green;">Gd - Antheridia 9 DAI (antheridia 9 days after induction)</span></li>
-  <li><span style="color:green;">Gd - Antheridia 11 DAI (antheridia 11 days after induction)</span> [5 replicates]</li>
-  <li><span style="color:green;">Gd - Antheridia 14-15 DAI (antheridia 14-15 days after induction)</span> [4 replicates]</li>
-  <li><span style="color:green;">Gd - Sperm Cell Packages</span></li>
-  <li><span style="color:orange;">Gd - Mature Archegonia</span></li>
-  <li><span style="color:red;">Gd - Sporophyte 9 DAF</span></li>
-  <li><span style="color:red;">Gd - Sporophyte 16 DAF</span></li>
-  <li><span style="color:red;">Gd - Green Sporophyte 20 DAF</span></li>
-  <li><span style="color:red;">Gd - Brown Sporophyte 28 DAF</span></li>
-
+  <div class="row">
+  <div class="col-8">
+    <li><span style="color:red;">Vx - E0/E1/E2</span> [1 replicate]</li>
+    <li><span style="color:red;">Vx - ES/ES1</span> [1 replicate]</li>
+    <li><span style="color:red;">Vx - Green Sporophyte PM</span> [1 replicate]</li>
+  </div>
+  <div class="col-4">
+    <a href="https://doi.org/10.1093%2Fgbe%2Fevx098">Szövényi et al., 2017</a>
+  </div>
+  </div>
   <hr>
-  <li><span style="color:orange;">Vx - LCM Unfertilized archegonia egg cell</span></li>
-  <li><span style="color:orange;">Vx - LCM Unfertilized archegonia venter cells</span></li>
-  <li><span style="color:pink;">Vx - LCM E0 Embryo</span></li>
-  <li><span style="color:pink;">Vx - LCM E0 Venter cells</span></li>
-  <li><span style="color:pink;">Re - ES1</span> [1 replicate]</li>
-  <hr>
-  <li><span style="color:pink;">Vx - E0/E1/E2</span> [1 replicate]</li>
-  <li><span style="color:pink;">Vx - ES/ES1</span> [1 replicate]</li>
-  <li><span style="color:pink;">Vx - Green Sporophyte PM</span> [1 replicate]</li>
-  
-  
+    <div class="row">
+    <div class="col-8">
+      <li><span style="color:red;">Gd - Sporophyte 9 DAF</span></li>
+      <li><span style="color:red;">Gd - Sporophyte 16 DAF</span></li>
+      <li><span style="color:red;">Gd - Green Sporophyte 20 DAF</span></li>
+      <li><span style="color:red;">Gd - Brown Sporophyte 28 DAF</span></li>
+    </div>
+    <div class="col-4">
+      <a href="https://doi.org/10.1038/s41477-021-00958-2">Julca et al., 2021</a>
+    </div>
+    </div>
+<hr>
 </ul>
 
 <p>
