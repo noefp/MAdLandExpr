@@ -129,6 +129,7 @@ h4 {
 
 .navbar .dropdown-menu .dropdown-item {
     color: white !important;
+    background-color: #203d00;
 }
 
 .navbar .dropdown-item:hover {
