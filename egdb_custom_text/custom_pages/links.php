@@ -1,5 +1,5 @@
 <br>
-<div class="width900">
+<div>
   <div class="row">
     <div class="col-12">
 
@@ -8,7 +8,7 @@
       <br>
 
       <!-- Container -->
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
         <!-- Grid of links -->
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;">Related sites and tools</h2>
         <br>
@@ -191,7 +191,7 @@
       <br>
 
       <!-- Container -->
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
         <!-- Grid of links -->
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Chara braunii</i></h2>
         <br>
@@ -233,7 +233,7 @@
       <br>
 
       <!-- Container -->
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
         <!-- Grid of links -->
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Spirogyra pratensis</i></h2>
         <br>
@@ -267,7 +267,7 @@
       <br>
 
      <!-- Container -->
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
         <!-- Grid of links -->
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Physcomitrium patens</i></h2>
         <br>
@@ -378,7 +378,7 @@
       <br>
 
      <!-- Container -->
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
         <!-- Grid of links -->
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Ceratodon purpureus</i></h2>
         <br>
@@ -421,7 +421,7 @@
       <br>
 
      <!-- Container -->
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
         <!-- Grid of links -->
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Anthoceros</i> spp.</h2>
         <br>
@@ -473,7 +473,7 @@
       <br>
 
      <!-- Container -->
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
         <!-- Grid of links -->
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;"><i>Marchantia polymorpha</i></h2>
         <br>
@@ -515,7 +515,7 @@
       <br>
 
      <!-- Container -->
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
         <!-- Grid of links -->
         <h2 class="text-center" style="color:#b52b27; margin-bottom:0px !important;">Ferns</h2>
         <br>

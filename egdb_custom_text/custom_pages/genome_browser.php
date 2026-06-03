@@ -1,19 +1,17 @@
-<!-- Help -->
-<div>
-  <a class="float-right" href="https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html" target="_blank">
-    <i class='fa fa-info' style='font-size:20px;color:#229dff'></i> Help
-  </a>
+<!-- HELP -->
+<div class="margin-20">
+  <a class="float-right" href="https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html" target="_blank"><i class='fa fa-info' style='font-size:20px;color:#229dff'></i> Help</a>
 </div>
 <br>
 
-<div class="width900">
+<div>
   <div class="row">
     <div class="col-12">
 
       <!-- Genome Browser -->
-      <h1 class="text-center">Genome Browser <i class="fas fa-dna" style="color:#555"></i><i class="fas fa-search" style="color:#555"></i></h1>
+      <h1 class="text-center">Genome Browser <i class="fas fa-stream" style="color:#555"></i></h1>
       <br>
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
 
 
 

@@ -1,12 +1,12 @@
 <br>
-<div class="width900">
+<div>
   <div class="row">
     <div class="col-12">
 
       <!-- Data Submission -->
       <h1 class="text-center">Data Submission <i class="fa fa-envelope" style="color:#555"></i></h1>
       <br>
-      <div id="tool-container" class="form margin-20" style="margin:auto; max-width:900px">
+      <div class="form margin-20 tool-container" style="margin:auto">
 
         <!-- Instructions -->
         <div id="color_default\" class="alert alert-primary" role="alert" style="display:block;margin:0px">
